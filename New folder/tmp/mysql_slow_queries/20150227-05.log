@@ -1,0 +1,8 @@
+# Fri Feb 27 05:46:38 2015
+# Thread_id: 47956465  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.809109  Lock_time: 0.050768  Rows_sent: 88  Rows_examined: 1525  Rows_affected: 0  Rows_read: 1525
+# Bytes_sent: 4912
+use worldfin_finance;
+SET timestamp=1425041198;
+select * from vCategory where sitekey='weddings' order by categdesc asc
+

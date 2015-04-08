@@ -1,0 +1,79 @@
+Return-path: <www-data@cpro24942.publiccloud.com.br>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Wed, 17 Dec 2014 14:46:04 -0700
+Received: from [179.188.0.152] (port=42442 helo=cpro24942.publiccloud.com.br)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <www-data@cpro24942.publiccloud.com.br>)
+	id 1Y1MPx-0004mC-En
+	for hq@worldfinancesearchengines.com; Wed, 17 Dec 2014 14:46:04 -0700
+Received: by cpro24942.publiccloud.com.br (Postfix, from userid 33)
+	id ACF4EB948A; Wed, 17 Dec 2014 19:40:25 -0200 (BRST)
+To: hq@worldfinancesearchengines.com
+Subject: hq@worldfinancesearchengines.com  - Extrato de débitos disponível. Efetue já o pagamento de suas pendências e evite a negativação de seu cadastro.
+X-PHP-Originating-Script: 0:c.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Vivo S/A <cobranca26537@vivo.com.br>
+Message-Id: <20141217214025.ACF4EB948A@cpro24942.publiccloud.com.br>
+Date: Wed, 17 Dec 2014 19:40:25 -0200 (BRST)
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sem título</title>
+</head>
+
+<body>
+<table width="700" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://i.imgur.com/nj6rfbb.jpg" width="700" height="120" /></td>
+  </tr>
+  <tr>
+    <td>
+    <h1 style="font-family: Tahoma, Geneva, sans-serif; color: #732177; font-size: 24px; display: block; text-align: left; margin: 5px; padding: 10px; border-bottom:1px solid #732177;">
+	Extrato de cobrança</h1>
+    <span style="font-family:Tahoma, Geneva, sans-serif; color:#732177; font-size:14px; display:block; text-align:justify; margin: 5px; padding: 10px;">
+    	Prezado Cliente <b>hq@worldfinancesearchengines.com
+</b><br />
+    	
+    	<br />
+	</span>
+	<span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px; color: #732177">
+    <br />
+	Consta ainda em nosso sistema, uma pendência no valor de <b>R$ 850,92</b> 
+	referente ao mês de setembro. Conforme as 
+	políticas internas do artigo <b>11649-VIVOBR</b>, tentamos efetuar o 
+	débito duas vezes na conta cadastrada pelo auto atendimento, diante disso, 
+	inúmeras vezes tentamos entrar em contato com o responsável pela linha, não 
+	obtendo êxito com a mesma.</span><p>
+	<span style="font-family: Tahoma, Geneva, sans-serif; font-size: 14px; color: #732177">
+	Com as seguintes tentativas, enviamos para nossa agência de cobrança os 
+	dados necessários, e em um prazo de sete dias úteis iremos realizar 
+	juntamente com os órgãos de análise de crédito (SPC e Serasa) a negativação 
+	de seu CPF.<br />
+	&nbsp; <br>
+	Sugerimos que efetue o pagamento o mais breve possível, evitando assim 
+	transtornos e o acumulo de juros.
+	Caso já tenha efetuado o pagamento da mesma, pedimos que desconsidere este 
+	email, todavia, caso o mesmo não tenha sido efetuado, segue abaixo em 
+	formato PDF o extrato, juntamente com o boleto de pagamento.</span></p>
+	<p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+    	<a style="display:block; width:200px; height:36px; margin: 0 auto; padding: 5px 0px 25px 0px;" href="http://vivo-pendencias.pagina-oficial.com/hq@worldfinancesearchengines.com
+">
+		<img src="http://i.imgur.com/zPQrBFl.jpg" width="200" height="36" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <img src="http://i.imgur.com/Eh2Qreb.jpg" width="700" height="90" />
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+# Fri Jan  2 05:51:55 2015
+# Thread_id: 39605904  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 3.429253  Lock_time: 0.022431  Rows_sent: 0  Rows_examined: 59051  Rows_affected: 0  Rows_read: 59051
+# Bytes_sent: 115
+use worldfin_finance;
+SET timestamp=1420203115;
+select distinct(providerstatecode) as providerstatecode from provider where providercountrycode='' and providerstatecode != '' order by providerstatecode asc
+
+# Fri Jan  2 05:51:59 2015
+# Thread_id: 39605969  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 3.876988  Lock_time: 0.027253  Rows_sent: 0  Rows_examined: 1437  Rows_affected: 0  Rows_read: 1437
+# Bytes_sent: 175
+use worldfin_finance;
+SET timestamp=1420203119;
+select categdesc, categid from vCategory where sitekey like '' and categdesc <> '' order by categdesc asc
+

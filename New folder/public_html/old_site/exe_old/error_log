@@ -1,0 +1,306 @@
+[30-Nov-2013 17:26:02] PHP Fatal error:  Call to undefined function  php_info() in /home4/worldfin/public_html/test_php.php on line 2
+[01-Dec-2013 00:35:10 America/Denver] PHP Fatal error:  Call to undefined function this_is_a_test_error() in /home4/worldfin/public_html/test_php.php on line 2
+[01-Dec-2013 18:36:16 Australia/Hobart] PHP Fatal error:  Call to undefined function this_is_a_test_error() in /home4/worldfin/public_html/test_php.php on line 3
+[01-Dec-2013 03:18:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[01-Dec-2013 03:18:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[01-Dec-2013 03:19:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[01-Dec-2013 03:19:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[01-Dec-2013 21:19:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:19:38] PHP Notice:  Undefined offset:  2 in /home4/worldfin/public_html/list.php on line 88
+[01-Dec-2013 21:19:38] PHP Notice:  Undefined index:  startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:19:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:22:46 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:22:46 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 88
+[01-Dec-2013 21:22:46 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:22:46 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:23:57 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:23:57 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 88
+[01-Dec-2013 21:23:57 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:23:57 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:24:04 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:24:04 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:24:04 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:44:08 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:44:08 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:44:08 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:44:41 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:44:41 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:44:41 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 331
+[01-Dec-2013 21:45:32 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:45:32 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 90
+[01-Dec-2013 21:45:32 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 333
+[01-Dec-2013 21:48:43 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 62
+[01-Dec-2013 21:48:43 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 92
+[01-Dec-2013 21:48:43 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 335
+[01-Dec-2013 21:49:10 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 63
+[01-Dec-2013 21:49:10 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:49:10 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[01-Dec-2013 21:50:02 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:50:53 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:51:00 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:56:49 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:57:06 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:59:11 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 21:59:20 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:01:48 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:02:29 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:02:48 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:02:58 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:03:09 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:07:09 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[01-Dec-2013 22:07:09 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:07:09 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[01-Dec-2013 22:07:19 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[01-Dec-2013 22:07:19 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:07:19 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:07:19 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:07:19 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[01-Dec-2013 22:07:26 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[01-Dec-2013 22:07:26 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:07:26 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:07:26 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:07:26 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[01-Dec-2013 22:07:29 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:07:29 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:07:29 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:08:24 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[01-Dec-2013 22:08:24 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:08:24 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:08:24 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[01-Dec-2013 22:08:35 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:08:35 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:08:35 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:08:38 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:08:38 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:08:38 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:08:43 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:08:43 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:08:43 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:10:17 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:10:17 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:10:17 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:11:20 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:11:20 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:11:20 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:11:40 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:11:40 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:11:40 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:18:39 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:18:39 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:18:39 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:19:40 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:19:40 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:19:40 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[01-Dec-2013 22:55:13 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[01-Dec-2013 22:55:13 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[01-Dec-2013 22:55:13 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 06:45:30 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 06:45:30 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 06:45:30 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 06:45:44 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 06:45:44 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 06:45:44 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 07:43:19 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 07:43:19 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 07:43:19 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 13:10:31 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 13:10:31 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 13:10:31 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 13:10:40 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 13:10:40 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 13:10:40 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:06:26 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:06:26 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:06:26 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:06:26 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:06:26 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:06:27 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:09:39 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:09:45 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:09:45 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:09:45 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:09:45 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:09:45 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:09:46 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:09:54 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:09:56 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:09:59 Australia/Hobart] PHP Notice:  Undefined index: site in /home4/worldfin/public_html/list.php on line 17
+[02-Dec-2013 18:09:59 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[02-Dec-2013 18:09:59 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:09:59 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[02-Dec-2013 18:10:24 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:10:24 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:10:24 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:10:49 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:10:49 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:10:49 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 18:11:02 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/list.php on line 89
+[02-Dec-2013 18:11:02 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[02-Dec-2013 18:11:02 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[02-Dec-2013 03:18:25 America/Denver] PHP Parse error:  syntax error, unexpected 'welcome1' (T_STRING) in /home4/worldfin/public_html/index.php on line 21
+[02-Dec-2013 03:18:49 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:19:13 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:29:45 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:30:12 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:31:16 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:31:23 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:31:44 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:32:30 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:32:34 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:32:53 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:32:56 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:33:12 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 03:33:24 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/index.php on line 19
+[02-Dec-2013 21:34:49 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:34:53 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:35:15 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:36:25 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:36:38 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:36:42 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:37:21 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:37:30 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:37:37 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:37:44 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:40:03 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:40:13 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:41:15 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:41:31 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:42:46 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:44:58 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:45:01 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:50:31 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:50:35 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:50:54 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:50:57 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:51:02 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:51:56 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[02-Dec-2013 21:52:00 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 00:19:40 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 00:32:21 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:53:57 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:54:18 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:55:51 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:55:52 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:55:56 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 04:55:56 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 07:46:37 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 07:46:40 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 07:59:45 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 07:59:49 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 07:59:56 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:00:19 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:01:52 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:02:00 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:02:34 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:03:07 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:03:23 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:03:28 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 08:51:22 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 09:20:12 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 10:11:11 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/welcome1.php on line 5
+[03-Dec-2013 10:51:33 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 77
+[03-Dec-2013 10:51:33 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/list.php on line 91
+[03-Dec-2013 10:51:33 Australia/Hobart] PHP Notice:  Undefined index: startswith in /home4/worldfin/public_html/list.php on line 93
+[03-Dec-2013 10:51:33 Australia/Hobart] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/worldfin/public_html/list.php on line 336
+[08-Apr-2014 06:09:14 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home4/worldfin/public_html/exe/dbconnect.php on line 2
+[08-Apr-2014 22:10:15 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:10:37 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:13:23 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:13:31 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:13:43 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:13:53 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:01 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:11 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:21 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:33 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:42 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:50 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:14:58 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:15:06 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:15:15 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:15:24 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:15:44 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[08-Apr-2014 22:16:01 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[13-Apr-2014 12:29:27 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/exe/index.php on line 11
+[13-Apr-2014 12:29:35 Australia/Hobart] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home4/worldfin/public_html/exe/list.php on line 18
+[13-Apr-2014 12:29:35 Australia/Hobart] PHP Notice:  Undefined offset: 1 in /home4/worldfin/public_html/exe/list.php on line 114
+[13-Apr-2014 12:29:35 Australia/Hobart] PHP Notice:  Undefined offset: 2 in /home4/worldfin/public_html/exe/list.php on line 116
+[27-Apr-2014 13:47:18 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[27-Apr-2014 13:47:42 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[27-Apr-2014 13:48:08 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[27-Apr-2014 13:48:34 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[27-Apr-2014 15:45:53 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:46:02 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:46:05 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:46:08 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:46:15 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:46:18 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:55:23 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:58:42 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/add_new_site.php on line 164
+[27-Apr-2014 15:58:46 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 15:58:49 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 16:00:28 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/add_new_site.php on line 164
+[27-Apr-2014 16:01:08 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[27-Apr-2014 16:01:11 Australia/Hobart] PHP Notice:  Undefined index: admin_md5 in /home4/worldfin/public_html/exe/edit_sites.php on line 86
+[01-May-2014 11:32:52 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[01-May-2014 11:33:05 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[01-May-2014 11:34:18 Australia/Hobart] PHP Notice:  Undefined index: site_id in /home4/worldfin/public_html/exe/edit_single_site.php on line 91
+[06-May-2014 12:12:51 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[06-May-2014 12:13:11 Australia/Hobart] PHP Notice:  Undefined index: report_type in /home4/worldfin/public_html/exe/domain_report.php on line 81
+[08-May-2014 20:48:52 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[09-May-2014 14:54:10 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[09-May-2014 14:54:29 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 14:54:49 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 14:55:30 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 14:56:03 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 14:56:09 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 14:56:34 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/unlisted_providers.php on line 25
+[09-May-2014 14:56:47 Australia/Hobart] PHP Notice:  Undefined variable: counter in /home4/worldfin/public_html/exe/show_new.php on line 37
+[09-May-2014 16:09:02 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[09-May-2014 17:38:01 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:38:25 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:38:32 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:38:38 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:38:46 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:38:52 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:39:07 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:39:13 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:39:27 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:39:45 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:39:55 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 17:40:48 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 155
+[09-May-2014 01:41:14 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/worldfin/public_html/exe/edit_provider.php on line 11
+[09-May-2014 01:41:31 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/worldfin/public_html/exe/edit_provider.php on line 11
+[09-May-2014 01:41:38 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/worldfin/public_html/exe/edit_provider.php on line 11
+[09-May-2014 01:41:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/worldfin/public_html/exe/edit_provider.php on line 11
+[16-May-2014 13:36:49 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[17-May-2014 18:49:34 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[20-May-2014 12:06:25 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[20-May-2014 14:40:01 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/all_providers.php on line 100
+[20-May-2014 14:40:43 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/unlisted_providers.php on line 25
+[25-May-2014 16:18:11 Australia/Hobart] PHP Notice:  Undefined variable: country_code in /home4/worldfin/public_html/exe/all_providers.php on line 156
+[25-May-2014 16:18:12 Australia/Hobart] PHP Notice:  Uninitialized string offset: 0 in /home4/worldfin/public_html/exe/all_providers.php on line 194
+[25-May-2014 16:18:12 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 200
+[27-May-2014 12:27:33 Australia/Hobart] PHP Notice:  Undefined variable: country_code in /home4/worldfin/public_html/exe/all_providers.php on line 156
+[27-May-2014 12:27:34 Australia/Hobart] PHP Notice:  Uninitialized string offset: 0 in /home4/worldfin/public_html/exe/all_providers.php on line 194
+[27-May-2014 12:27:34 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 200
+[26-May-2014 20:28:02 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/worldfin/public_html/exe/edit_provider.php on line 11
+[27-May-2014 12:30:10 Australia/Hobart] PHP Notice:  Undefined variable: country_code in /home4/worldfin/public_html/exe/all_providers.php on line 156
+[27-May-2014 12:30:10 Australia/Hobart] PHP Notice:  Uninitialized string offset: 0 in /home4/worldfin/public_html/exe/all_providers.php on line 194
+[27-May-2014 12:30:10 Australia/Hobart] PHP Notice:  Undefined variable: lastchar in /home4/worldfin/public_html/exe/all_providers.php on line 200
+[27-May-2014 12:30:15 Australia/Hobart] PHP Notice:  Undefined index: sitekey in /home4/worldfin/public_html/exe/unlisted_providers.php on line 25

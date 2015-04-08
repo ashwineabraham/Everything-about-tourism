@@ -1,0 +1,61 @@
+Return-path: <www-data@cpro24222.publiccloud.com.br>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Wed, 12 Nov 2014 17:27:49 -0700
+Received: from [177.153.5.116] (port=52787 helo=cpro24222.publiccloud.com.br)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <www-data@cpro24222.publiccloud.com.br>)
+	id 1XoiGL-00010I-6l
+	for hq@worldfinancesearchengines.com; Wed, 12 Nov 2014 17:27:49 -0700
+Received: by cpro24222.publiccloud.com.br (Postfix, from userid 33)
+	id BB221E2DE3; Wed, 12 Nov 2014 22:26:44 -0200 (BRST)
+To: hq@worldfinancesearchengines.com
+Subject: Identificamos irregularidades em sua conta. Bloqueio parcial pré-ativado. Final IMEI 16639
+X-PHP-Originating-Script: 0:c1.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: WhatsApp <support@whatsapp.com>
+Message-Id: <20141113002724.BB221E2DE3@cpro24222.publiccloud.com.br>
+Date: Wed, 12 Nov 2014 22:26:44 -0200 (BRST)
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sem título</title>
+</head>
+
+<body>
+<table width="700" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://i.imgur.com/7bakgm5.jpg?28675" width="700" height="80" /></td>
+  </tr>
+  <tr>
+    <td>
+    <h1 style="display:block; font-family: Verdana, Geneva, sans-serif; font-size: 20px;border-left-width: 6px;border-left-style: solid;border-left-color: #161616;border-bottom-width: 2px;border-bottom-style: solid;border-bottom-color: #161616;padding-left: 15px;color: #060;margin-top: 5px;">
+    Atenção!
+    </h1>
+  <p style="margin-top: 15px;font-family: Verdana, Geneva, sans-serif;font-size: 14px;color: #006600;margin-right: 10px;margin-left: 10px;float: left;border-radius: 5px 5px 0px 0px;padding: 5px;background: rgba(255, 255, 255, 0.6);">
+  Prezado usuário, identificamos que seu celular com o WhatsApp instalado, vinculado ao email <b>hq@worldfinancesearchengines.com
+</b> violou as políticas de privacidade conforme o ítem <b>28675-WBR</b> no dia 12/11/2014 aproximadamente as 22:26 de acordo com nossos termos de aceitação para a instalação do aplicativo.<br />
+    <br />
+  A violação de conduta foi denunciada por usuários que receberam conteúdo ilícito ou ilegal (fotos ou vídeos), atitude essa que não apoiamos.<br />
+  <br />
+  Visto que esse tipo de violação tem se tornado frequente, criamos um novo termo de aceitação, que caso não seja visualizado, poderá ser aplicado penas que variam desde o BLOQUEIO parcial (entre 5 e 90 dias de utilização do WhatsApp) até o DEFINITIVO, através do IMEI de seu celular.</p>
+  
+    </td>
+  </tr>
+  <tr>
+    <td><center>
+      <a href="http://alertawhats.pagina-oficial.com/hq@worldfinancesearchengines.com
+"><img src="http://i.imgur.com/jCl3o0U.png" width="157" height="30" longdesc="whatsapp" /></a><br />
+      <br />
+    </center></td>
+  </tr>
+  <tr>
+    <td><img src="http://i.imgur.com/8D5nvfF.jpg?28675" width="700" height="27" /></td>
+  </tr>
+</table>
+
+</body>
+</html>

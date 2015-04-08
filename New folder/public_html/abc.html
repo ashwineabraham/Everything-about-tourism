@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+<style type="text/css">
+#productForm .inputGroupContainer .form-control-feedback,
+#productForm .selectContainer .form-control-feedback {
+    top: 0;
+    right: -15px;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+
+<form id="productForm" class="form-horizontal">
+    <div class="form-group">
+        <label class="col-xs-3 control-label">Price</label>
+        <div class="col-xs-3 inputGroupContainer">
+            <div class="input-group">
+                <input type="text" class="form-control" name="price" />
+                <span class="input-group-addon">$</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3 control-label">Amount</label>
+        <div class="col-xs-3 inputGroupContainer">
+            <div class="input-group">
+                <span class="input-group-addon">&#8364;</span>
+                <input type="text" class="form-control" name="amount" />
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3 control-label">Color</label>
+        <div class="col-xs-3 selectContainer">
+            <select class="form-control" name="color">
+                <option value="">Choose a color</option>
+                <option value="blue">Blue</option>
+                <option value="green">Green</option>
+                <option value="red">Red</option>
+                <option value="yellow">Yellow</option>
+                <option value="white">White</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3 control-label">Size</label>
+        <div class="col-xs-3 selectContainer">
+            <select class="form-control" name="size">
+                <option value="">Choose a size</option>
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+                <option value="XL">XL</option>
+            </select>
+        </div>
+    </div>
+</form>
+
+<script>
+$(document).ready(function() {
+    $('#productForm').formValidation({
+        framework: 'bootstrap',
+        icon: {
+            valid: 'glyphicon glyphicon-ok',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+            price: {
+                validators: {
+                    notEmpty: {
+                        message: 'The price is required'
+                    },
+                    numeric: {
+                        message: 'The price must be a number'
+                    }
+                }
+            },
+            amount: {
+                validators: {
+                    notEmpty: {
+                        message: 'The amount is required'
+                    },
+                    numeric: {
+                        message: 'The amount must be a number'
+                    }
+                }
+            },
+            color: {
+                validators: {
+                    notEmpty: {
+                        message: 'The color is required'
+                    }
+                }
+            },
+            size: {
+                validators: {
+                    notEmpty: {
+                        message: 'The size is required'
+                    }
+                }
+            }
+        }
+    });
+});
+</script>
+</body>
+</html>

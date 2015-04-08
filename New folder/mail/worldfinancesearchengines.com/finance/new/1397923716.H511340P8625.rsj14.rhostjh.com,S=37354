@@ -1,0 +1,973 @@
+Return-path: <A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a@apac.e.paypal.com>
+Envelope-to: finance@worldfinancesearchengines.com
+Delivery-date: Sat, 19 Apr 2014 10:08:36 -0600
+Received: from [96.47.30.182] (port=33022 helo=outbound.apac.e.paypal.com)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a@apac.e.paypal.com>)
+	id 1WbXof-00029e-Aj
+	for finance@worldfinancesearchengines.com; Sat, 19 Apr 2014 10:08:36 -0600
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com.au; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@e.paypal.com.au; t=1397923710;
+	h=From;
+	bh=9zO4m+9mtFmeiEX9z1l5d83AgGk=;
+	b=pP+dBJUsdwQBLPMxuYS5XnSL/l9HdNZA6/JRr79kybNFrjUB+ZsQ/ZTn7EjZFNLm
+	9YazLMODNg3HTqRfZA3nq+yEGRtg2b9RAXmshygzNOfIrMxyfKD7miYnZPV4Heoj
+	DPejFifJyX40RpZUcH3JtgTiovypTgOUejPha5xot50=;
+Received: from [127.0.0.1] ([127.0.0.1:38274])
+	by bm1-08.bo3.e-dialog.com (envelope-from <A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a@apac.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 45/77-30261-E7F92535; Sat, 19 Apr 2014 12:08:30 -0400
+Date: Sat, 19 Apr 2014 12:08:30 -0400
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com.au>
+Reply-To: "PayPal" <noreply@e.paypal.com.au>
+To: finance@worldfinancesearchengines.com
+Subject: Notice of Policy Updates
+Message-Id: <23128-691-A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a@e-dialog.com>
+X-Mail-From: A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a@apac.e.paypal.com
+X-Match: apac.e.paypal.com
+X-RCPT-To: finance@worldfinancesearchengines.com
+X-Mailer: EDMAIL R6.00.02
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+View online:
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/HNZCHY/UH/t?a=3D=
+A54UR7D&b=3DQGYWGV&c=3DEJS0A51&d=3DJOH58K&e=3D1&f=3D432e9fde7d3b4a1d9633
+=20
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+PayPal tm
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+
+Notice of Policy Updates
+
+Dear Peter Yeo,
+
+We=E2=80=99ve made some updates to the following agreements and policies:
+=E2=80=A2 User Agreement
+=E2=80=A2 Combined Financial Services Guide and Product Disclosure Statement
+=E2=80=A2 Privacy Policy
+=E2=80=A2 Recurring Payments and Billing Agreement
+=E2=80=A2 PayPal Here Terms and Conditions
+
+These changes will be effective on 20 May 2014.
+
+Who do the changes affect?
+The latest changes to our User Agreement will affect all our users.
+
+What are they?
+The main changes to our agreement and policies are:
+=E2=80=A2 We've updated the PayPal Here terms and conditions to coincide wi=
+th the launch of our new PayPal Here Chip & Pin card reader;
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/KUKEIX/UH/t
+=E2=80=A2 We=E2=80=99ve added clauses on our new product features such as l=
+oyalty cards and special offers from PayPal;
+=E2=80=A2 We=E2=80=99ve lowered our fee for PayPal POS functionality;
+=E2=80=A2 We=E2=80=99ve amended our liability clause; and
+=E2=80=A2 We=E2=80=99ve clarified how we use cookies in our Privacy Policy.
+
+Where can I see the details?
+The full details of our policy updates are published on our website. To sta=
+y safe from phishing, we recommend you always type our URL into your browse=
+r address bar instead of clicking links in emails.
+
+Visit the PayPal site by typing www.paypal.com.au into your browser address=
+ bar. Click Legal at the bottom of the page and then Policy Updates.
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/ZZNSK8/UH/t
+
+What if I have questions?
+If you have questions, you might find the answer in our Help Centre.=20
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/1MPRY0/UH/t
+Alternatively, you can call or email us by visiting the PayPal site and cli=
+cking Contact.=20
+
+Sincerely,
+PayPal Australia
+
+
+---------------------------------------------------------------------
+
+Forgot Password:
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/KU5A8J/UH/t
+
+Contact Us:
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/R8IXAL/UH/t
+
+Privacy:
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/FR2OLQ/UH/t
+
+---------------------------------------------------------------------
+
+How do I know this is not a fake email?
+Fake or 'phishing' emails tend to have generic greetings such as "Dear PayP=
+al member".=20
+Emails from PayPal will always address you by your first and last name.=20
+If unsure, forward the suspicious email to phishing@paypal.com.au and=20
+we'll let you know if it=E2=80=99s really coming from us or not.=20
+Find out more about fake and phishing emails:
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/I37VBR/UH/t
+
+__________________________________________________________________=20
+=20
+=20
+The PayPal service is provided by PayPal Australia Pty=20
+Limited (ABN 93 111 195 389) which holds an Australian=20
+Financial Services Licence, number 304962. Before deciding=20
+to sign-up for or use the PayPal service you should consider=20
+the Combined Financial Services Guide and Product Disclosure=20
+Statement, available at www.paypal.com.au.
+https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/KU5A83/UH/t
+
+Please do not reply to this email. We are unable to respond to inquiries se=
+nt to this address.=20
+
+
+[[A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="format-detection" content="telephone=no" />
+
+<title>Notice of Updates to Legal Agreements</title>
+
+<link REL="SHORTCUT ICON" HREF="">
+
+<meta name="viewport" content="width=320" />
+<style type="text/css">
+
+.ReadMsgBody {width: 100%;} 
+
+.ExternalClass {width: 100%;} 
+
+a {text-decoration:none;} 
+
+.applelinks a { color:#717074 !important;
+
+text-decoration:none !important;}
+
+ 
+
+@media screen and (max-device-width: 760px) {
+	 
+	 /* START PHISHING FOOTER */
+	 
+	 
+	 *[class=font_phishingtitle] { 
+font-size:11px !important; 
+line-height:16px !important;
+font-weight:bold !important;
+padding-left:10px !important;
+}
+
+	 *[class=resize_phishing]{
+ margin:0px 0px 0px 0px !important;
+ width:60px !important;
+ height:43px !important;
+ display:block !important;
+ background-size:60px 43px !important;
+}
+	 
+	 *[class=w5] {
+width:5px !important;
+}
+	 
+	 table[class=resize310] {
+width:310px !important;
+}
+	 
+	 
+	 *[class=column_split253]{
+ width:253px !important;
+ float:left !important;
+}
+
+*[class=column_split253_1]{
+ width:253px !important;
+ float:left !important;
+ padding-top:15px !important;
+}
+
+
+*[class=resize_w80]{
+ width:80px !important;
+ height:auto !important;
+}
+
+
+*[class=resize_h_15]{
+ height:15px !important;
+}
+
+ /* END PHISHING FOOTER */
+ 
+
+/* -------------------------------generic------------------------------- */
+
+table[class=nomob], span[class=nomob], td[class=nomob], img[class=nomob] {
+
+display:none !important;}
+
+
+
+table[class=nobk], span[class=nobk], td[class=nobk], img[class=nobk] {
+
+background:none!important;}
+
+
+
+table[class=email320resize], td[class=email320resize] {
+
+width:320px!important;}
+
+
+
+table[class=email300resize], td[class=email300resize] {
+
+width:300px!important;}
+
+
+
+td[class=emailcolsplit300] {
+
+width:300px!important;
+
+float:left!important;
+
+text-align:left!important;}
+
+
+
+table[class=emailcornerstop], td[class=emailcornerstop] {
+
+width:320px!important;
+
+padding-top: 12px;
+
+border-top-left-radius: 6px  !important;
+
+border-top-right-radius: 6px  !important;
+
+background: #ffffff!important }
+
+
+
+table[class=emailcornersbottom], td[class=emailcornersbottom] {
+
+width:320px!important;
+
+padding-bottom: 12px;
+
+border-bottom-left-radius: 6px  !important;
+
+border-bottom-right-radius: 6px  !important;
+
+background: #ffffff!important; }
+
+
+
+/* -------------------------------header/hero------------------------------- */
+
+
+
+/* Header*/
+
+*[class=mobilelogo] {
+
+width: 89px !important;
+
+height: 23px!important;
+}
+
+td[class=viewonline] {
+
+text-align:left!important;}
+
+
+
+ *[class=notic] {
+
+width: 310px !important;
+
+height: 35px!important;
+
+background:url(https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/1.1_Policy_Body_02_m1.jpg) no-repeat!important;}
+
+
+*[class=headersocialicon] {
+
+width: 300px!important;
+
+margin: 0px 0px 3px 0px!important;
+
+padding: 8px 10px 8px 10px!important;
+
+border: 0px!important;
+
+border-radius: 6px !important;
+
+background-color:#e6e7e8 !important;}
+
+
+
+*[class=resize10width] {
+
+width:10px!important;}
+
+
+
+*[class=resize310width] {
+
+width:310px!important;
+
+height: auto!important;}
+
+
+
+/* -------------------------------body------------------------------- */
+
+
+
+/*resize height_width*/
+
+*[class=resize8height] {
+
+height: 8px!important;}
+
+
+
+*[class=resize10height] {
+
+height: 10px!important;}
+
+
+
+*[class=resize13height] {
+
+height: 13px!important;}
+
+
+
+*[class=resize20height] {
+
+height: 20px!important;}
+
+
+
+*[class=resize21height] {
+
+height: 21px!important;}
+
+
+
+*[class=resize25height] {
+
+height: 25px!important;}
+
+
+
+*[class=resize8width] {
+
+width: 8px!important;}
+
+
+
+*[class=resize18width] {
+
+width: 18px!important;}
+
+
+
+*[class=resize141width] {
+
+width: 141px!important;
+
+height: auto!important;}
+
+
+
+*[class=resize60width] {
+
+width: 60px!important;
+
+height: auto!important;
+
+margin-top: 18px!important;}
+
+
+
+*[class=resize300width] {
+
+width:300px!important;
+
+height: auto!important;}
+
+
+
+*[class=gradientborder] {
+
+width:320px!important;
+
+height: 20px!important;
+
+margin-bottom: 6px !important;
+
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPal_APAC_2012_Template_Project/html/promos_b/img_grad_border_mob.gif) no-repeat!important;}
+
+
+
+*[class=resizesubtitle] {
+
+font-size: 16px!important;
+
+line-height: 22px!important;
+
+font-weight:bold!important;}
+
+
+
+*[class=resizebluetext] {
+
+font-size: 14px!important;
+
+line-height: 22px!important;}
+
+
+
+table[class=modmargin] {
+
+margin: 0 0 18px 0!important;}
+
+
+
+table[class=iconsmod10height] {
+
+margin: 0 0 10px 0!important;}
+
+
+
+*[class=vouchermod] {
+
+margin: 4px 0 12px 0!important;}
+
+
+
+
+
+
+
+/* -------------------------------footer------------------------------- */
+
+
+
+/* Blue modules */
+
+table[class=emailmoduleblue1] {
+
+width: 300px!important;
+
+margin: 0px 0px 3px 0px!important;
+
+padding: 13px 12px 13px 12px!important;
+
+border: 0px!important;
+
+border-radius: 6px !important;
+
+background-color:#00457C !important;}
+
+
+
+/* Blue module links */
+
+td[class=footer300cta] {
+
+width:300px!important;
+
+float:left!important;
+
+text-align:center!important;
+
+margin: 0px 0px 3px 0px!important;
+
+padding: 6px 0px 6px 0px!important;
+
+border: 0px!important;
+
+border-radius: 6px !important;
+
+background-color:#0079c1 !important;}
+
+
+
+/* Blue module facebook */
+
+*[class=iconfb] {
+
+margin: 0px 0px -3px 0!important;}
+
+
+
+*[class=footer300ctatable] {
+
+margin: 0 auto!important;}
+
+
+
+*[class=footer300ctafont] {
+
+font-size: 14px!important;
+
+line-height: 16px!important;
+
+font-weight: bold!important;
+
+text-decoration:none!important;}
+
+
+
+/* footer icons */
+
+*[class=resizeicon25width] {
+
+width: 25px!important;
+
+height:auto!important;}
+
+
+
+*[class=resizeicon31width] {
+
+width: 31px!important;
+
+height:auto!important;}
+
+
+
+*[class=resizeicon21width] {
+
+width: 21px!important;
+
+height:auto!important;}
+
+
+
+*[class=resizeicon23width] {
+
+width: 22px!important;
+
+height:auto!important;}
+
+
+/* Crime stoppers module */
+td[class=crimemod] {
+width: 280px!important;
+padding: 5px 15px 5px 15px!important;
+border: 0px!important;
+display: block!important;}
+
+td[class=crimefontfamilycopy] {
+font-family:Arial, Helvetica, sans-serif!important;
+font-size: 13px!important;
+line-height: 18px!important;
+padding-left: 2px;}
+
+a[class=crimefontfamilycopy] {
+font-family:Arial, Helvetica, sans-serif!important;
+font-size: 13px!important;
+line-height: 18px!important;}
+
+font[class=crimefontfamilycopy] {
+font-family:Arial, Helvetica, sans-serif!important;
+font-size: 13px!important;
+line-height: 18px!important;}
+
+td[id=borders] {
+
+width: 280px!important;
+border-top: 1px solid #9f9e96!important;
+border-bottom: 1px solid #9f9e96!important;
+margin: 17px 0 17px 0!important;
+padding: 6px 0 6px 0!important;
+text-align:center!important;}
+
+*[class=crimenavlink] {
+font-size: 13px!important;
+text-decoration:underline!important;}
+
+*[class=crimesmartphonecopy] {
+font-size: 12px!important;
+text-align:left!important;
+color:#555555!important;}
+
+*[class=alignleft] {
+float:left!important;
+margin-right: 1px!important;
+width: 280px;}
+
+
+td[class=emailcolsplit280]{
+width:280px!important; 
+float:left!important;}
+
+}
+
+
+
+
+
+
+}
+
+
+</style>
+</head>
+
+<div style="background:#ffffff;padding:0; margin:0;">
+
+<body style="padding:0; margin:0;-webkit-text-size-adjust:none;" bgcolor="#ffffff">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%" bgcolor="#ffffff">
+<tr>
+<td align="center" valign="top">
+<table class="email320resize" border="0" cellspacing="0" cellpadding="0" width="601" bgcolor="#FFFFFF">
+<tr>
+<td class="resize10width" width="20" align="left" valign="top"><img class="resize10width" style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="20" height="1" /></td>
+<td width="578" align="right" valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="11" /></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="viewonline" align="right" valign="top"><a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/4WL3Q4/UH/h?a=A54UR7D&b=QGYWGV&c=EJS0A51&d=JOH58K&e=1&f=432e9fde7d3b4a1d9633" style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px;"
+>View online</a></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="11" /></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="177" align="left" valign="top"><a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/WVJE4V/UH/h" style="font-family: Arial, Helvetica, sans-serif; color:#14477b; font-size:15px; text-decoration:none; line-height:20px; font-weight:normal;" target="_blank"
+><img class="mobilelogo" style="display:block;" src="https://image.paypal-communication.com/paypal/2012_Q2/PayPal_APAC_2012_Template_Project/html/promos_b/img_pp_logo.gif" border="0" alt="PayPal tm" width="177" height="45" /></a></td>
+<td class="nomob" align="left" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="10" height="1" /></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="11" /></td>
+</tr>
+</table>
+</td>
+<td class="resize10width" width="20" align="left" valign="top"><img class="resize10width" style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="20" height="1" /></td>
+</tr>
+</table>
+<table class="email320resize" border="0" cellspacing="0" cellpadding="0" width="578">
+<tr>
+<td width="578" align="left" valign="top">
+            
+<table class="email320resize" border="0" cellspacing="0" cellpadding="0" width="578" bgcolor="#FFFFFF">
+<tr>
+<td class="notic" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="2" height="1" /></td>
+</tr>
+<tr>
+<td class="nomob" width="578" align="left" valign="top" bgcolor="#FFFFFF"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/adhoc_au_legal_0123/1.1_Policy_Body_02_2.jpg" border="0" alt="Notice of  Policy Updates" width="578" height="68" /></td>
+</tr>
+</table>
+<table class="email320resize" border="0" cellspacing="0" cellpadding="0" width="578" bgcolor="#FFFFFF">
+<tr>
+<td class="email300resize" align="left" valign="top">
+  
+<table class="email300resize" border="0" cellspacing="0" cellpadding="0" width="578" align="center">
+<tr>
+<td class="nomob" width="1" valign="top" bgcolor="#e5e5e5"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="1" /></td>
+<td class="nomob" width="19" valign="top"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="19" height="1" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b" valign="top"><b>Dear Peter Yeo,
+</b><br /><br />We&rsquo;ve made some updates to the following agreements and policies:<br /><br />
+
+<table class="email300resize" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">User Agreement</td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">Combined Financial Services Guide and Product Disclosure Statement    </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">	Privacy Policy </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">	Recurring Payments and Billing Agreement </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">	PayPal Here Terms and Conditions </td>
+</tr>
+</table>
+<br />
+These changes will be effective on 20 May 2014.
+<br /><br /><b>Who do the changes affect?</b><br /><br />The latest changes to our User Agreement will affect all our users.<br /><br /><b>What are they?</b><br /><br />The main changes to our agreement and policies are:<br /><br />
+        
+<table class="email300resize" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">We&rsquo;ve updated the PayPal Here terms and conditions to coincide with the launch of our new <a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/4WG0OG/UH/h" target="_blank" style="color:#0079c1; text-decoration:none; font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px;"
+>PayPal Here Chip & Pin card reader</a>;  </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">We&rsquo;ve added clauses on our new product features such as loyalty cards and special offers from PayPal;  </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">We&rsquo;ve lowered our fee for PayPal POS functionality;  </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">We&rsquo;ve amended our liability clause; and  </td>
+</tr>
+<tr>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;" align="left" valign="top"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2012_Q1/adhoc_au_policyupdate_0323/bullets_single.jpg" alt="" width="20" height="13" /></td>
+<td style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b;">We&rsquo;ve clarified how we use cookies in our Privacy Policy.  </td>
+</tr>
+</table>
+<br />
+        <b>Where can I see the details?</b><br /><br />
+          The full details of our policy updates are published on our website. To stay safe from phishing, we recommend you always type our URL into your browser address bar instead of clicking links in emails.<br /><br />
+        <span style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#4b4b4b; padding-top:5px;">Visit the PayPal site by typing <a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/HNZCH3/UH/h" style="color:#0079c1; text-decoration:none; font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px;" target="_blank"
+>www.paypal.com.au</a> into your browser address bar. Click <b>Legal</b> at the bottom of the page and then <b>Policy Updates</b>.</span><br />
+       <br />
+        <b>What if I have questions?</b><br /><br />
+       If you have questions, you might find the answer in our  <a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/HNZCHP/UH/h" style="font-size:13px; font-family:Arial, Helvetica, sans-serif; line-height:16px; color:#0079c1;"
+>Help Centre</a>. Alternatively, you can call or email us by visiting the PayPal site and clicking  <b>Contact</b>.
+       <br />
+<br />
+Sincerely,<br />PayPal Australia<br />
+<br />
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#e6e7e8">
+<tr>
+<td width="1" height="15" valign="top"><img style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="15" /></td>
+</tr>
+<tr>
+<td height="28" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="20" align="left" valign="top"><img class="w23" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="20" height="1" /></td>
+<td class="column_split253">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:19px; text-decoration:none; color:#0079c1"><b><a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/S6EKZC/UH/h" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:19px; text-decoration:none; color:#0079c1" target="_blank"
+>Forgot Password</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/R8IXAC/UH/h" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:19px; text-decoration:none; color:#0079c1" target="_blank"
+>Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/EJV61P/UH/h" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:19px; text-decoration:none; color:#0079c1" target="_blank"
+>Privacy</a></b></td>
+</tr>
+</table>
+</td>
+<td width="20" align="left" valign="top"><img class="w23" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="20" height="1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="resize_h_15" width="1" height="10" valign="top"><img class="resize_h_15" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="10" /></td>
+</tr>
+</table>
+<table class="email310resize" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#e6e7e8">
+<tr>
+<td width="20" align="left" valign="top"><img class="w23" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="20" height="1" /></td>
+<td class="nomob" width="145">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="nomob" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:19px; text-decoration:none; color:#0079c1" width="145" valign="top"><img class="resize_w80" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/phishing.jpg" border="0" alt="" width="145" height="104" /></td>
+</tr>
+</table>
+</td>
+<td class="nomob" style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"><img style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="10" height="1" /></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:10px; text-decoration:none; line-height:13px; font-weight:normal;" align="left">
+                      
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="resize_phishing" background="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/phishing.jpg"><img class="resize_phishing" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="1" /></td>
+<td class="font_phishingtitle" style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:14px; font-weight:normal;">How do I know this is not a fake email?</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:10px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"><img style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="6" /></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:14px; font-weight:normal;" align="left">  
+                      Fake or 'phishing' emails tend to have generic greetings such as "Dear PayPal member". Emails from PayPal will always address you by your first and last name.                      </td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:10px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:10px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"><img style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="6" /></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:14px; font-weight:normal;" align="left">  
+                     If unsure, forward the suspicious email to <a
+ href="mailto:phishing@paypal.com.au"
+>phishing@paypal.com.au</a> and we'll let you know if it&rsquo;s really coming from us or not.
+                     </td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:10px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:13px; font-weight:normal;" align="left"><img style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="6" /></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color:#717074; font-size:11px; text-decoration:none; line-height:14px; font-weight:normal;" align="left"><b><a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/8YGLRJ/UH/h" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:12px; text-decoration:none; color:#0079c1"
+>Find out more about fake and phishing emails</a></b></td>
+</tr>
+<tr>
+<td class="resize_h_15" width="1" height="15" valign="top"><img class="resize_h_15" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="1" height="15" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class="w24" width="20" align="left" valign="top"><img class="w24" style="display:block;" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/template_au_acctstatement_0114/img_spacer.gif" border="0" alt="" width="20" height="1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+<td class="nomob" width="19" valign="top"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="19" height="1" /></td>
+<td class="nomob" width="1" valign="top" bgcolor="#e5e5e5"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
+<tr>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="1" /></td>
+<td class="nomob" width="578" align="left" valign="top" bgcolor="#FFFFFF"><img style="display:block" src="https://image.paypal-communication.com/paypal_apac/2014_Q1/adhoc_au_legal_0123/bottom_1.jpg" alt="" width="578" height="19" /></td>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="2" height="1" /></td>
+</tr>
+</table>
+<table class="email300resize" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
+<tr>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="1" /></td>
+<td width="568" align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="2" height="1" /></td>
+</tr>
+</table>
+<table class="email300resize" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
+<tr>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="1" /></td>
+<td width="568" align="left" valign="top" bgcolor="#FFFFFF"> 	
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="10" /></td>
+</tr>
+<tr>
+<td><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="20" height="1" /></td>
+<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666;">
+<p style="text-align: left;"><font style="color: #666666;" color="#666666">The PayPal service is provided by PayPal Australia Pty Limited (ABN 93 111 195 389) which holds an Australian Financial Services Licence, number 304962. Before deciding to sign-up for or use the PayPal service you should consider the Combined Financial Services Guide and Product Disclosure Statement, available at </font><font style="color: #0000FF;"><a
+ href="https://email-edg.paypal.com/r/A54UR7D/B6DVP/MV8X0I/5CEC8W/GFA0TT/UH/h" style="font-family: Arial,Helvetica,sans-serif; font-size: 10px; color: #0000FF; text-decoration: underline"
+>www.paypal.com.au.</a></font></p>
+<p style="color: #666666;">Please do not reply to this email. We are unable to respond to inquiries sent to this address. </p>
+</td>
+<td><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="20" height="1" /></td>
+</tr>
+<tr>
+<td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="1" height="10" /></td>
+</tr>
+</table>
+</td>
+<td class="nomob" width="1" align="left" valign="top" bgcolor="#ffffff"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" border="0" alt="" width="2" height="1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="14"><img style="display:block;" src="https://image.paypal-communication.com/paypal/spacer50.gif" alt="" width="1" height="14" /></td>
+</tr>
+</table>
+<!--end of master table--></td>
+</tr>
+</table>
+<img height="1" width="1" src="https://email-edg.paypal.com/o/A54UR7D/B6DVP/MV8X0I/5CEC8W/6ALR/MS"><img height="1" width="1" src="https://email-edg.paypal.com/o/A54UR7D/B6DVP/MV8X0I/5CEC8W/6ALR/52"><!-- [[A54UR7D-QGYWGV-B6DVP-MV8X0I-5CEC8W-M-M2-20140416-35812c664a6e85a]] --></body>
+
+</div>
+
+</html>
+
+---_-_-_-_-_1234567890--
+

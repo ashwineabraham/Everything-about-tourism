@@ -1,0 +1,14 @@
+# Sun Jan  4 10:41:59 2015
+# Thread_id: 43136829  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.452219  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420393319
+
+# Sun Jan  4 10:42:03 2015
+# Thread_id: 43136854  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.996051  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420393323
+

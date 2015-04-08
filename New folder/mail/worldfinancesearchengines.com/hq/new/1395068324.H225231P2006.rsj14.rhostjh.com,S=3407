@@ -1,0 +1,74 @@
+Return-path: <www-data@institutoconversa.com>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Mon, 17 Mar 2014 08:58:44 -0600
+Received: from [201.150.36.102] (port=37994 helo=mail.institutoconversa.com)
+	by rsj14.rhostjh.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <www-data@institutoconversa.com>)
+	id 1WPYzz-0000O8-I6
+	for hq@worldfinancesearchengines.com; Mon, 17 Mar 2014 08:58:43 -0600
+Received: from utopia.institutoconversa.com (utopia2.institutoconversa.com [172.16.0.133])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.institutoconversa.com (Postfix) with ESMTPS id 14342109812
+	for <hq@worldfinancesearchengines.com>; Mon, 17 Mar 2014 08:55:49 -0600 (CST)
+Received: by utopia.institutoconversa.com (Postfix, from userid 33)
+	id 6DED8639FA; Mon, 17 Mar 2014 08:25:25 -0600 (CST)
+To: hq@worldfinancesearchengines.com
+Subject: Seu Cartão sera Cancelado caso não regularize seus dados      17/03/2014 09:25:25
+X-PHP-Originating-Script: 33:-ByMinatoTop.php(7) : eval()'d code
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From:  <hq@worldfinancesearchengines.com
+ >
+Message-Id: <20140317145548.6DED8639FA@utopia.institutoconversa.com>
+Date: Mon, 17 Mar 2014 08:25:25 -0600 (CST)
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+             <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CredCard</title>
+<style type="text/css">
+body,td,th {
+	font-size: 12px;
+}
+</style>
+</head>
+
+<body>
+<table width="600" border="1">
+  <tr>
+    <td width="1200" bgcolor="#CCCCCC"><img src="http://i.imgur.com/arwA1C1.png" width="696" height="106" /></td>
+  </tr>
+  <tr>
+    <td><p><strong>Prezado(a) Cliente.</strong></p>
+      <p>Consta em nosso sistema que há divergência em seus dados cadastrais.</p>
+<p>Por motivos de segurança seu acesso será cancelado caso não regularize os seus dados cadastrais.</p>
+      <p>Caso a reativação do seu cartão não seja realizada.</p>
+      <p>Será cobrada uma taxa de multa no valor de R$ 14,90 referente ao envio de um novo cartão de crédito <strong>(CREDICARD)</strong>.</p>
+      <p><strong>ATENÇÃO:</strong> Este procedimento é obrigatório e só é solicitado uma vez, caso o nosso sistema não identifique este procedimento de reguarização.</p>
+      <p>Sua conta e seu cartão de crédito serão boqueados automaticamente por medidas de segurança.      </p>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p align="left"><strong>Para Iniciar a Regularização, Clique no botão abaixo.</strong></p>
+              <blockquote>
+                <blockquote>
+                  <p align="left"><a href="http://regularizacaocadastral.url.ph/cadastro/login/finalizar/"><img src="http://i.imgur.com/Fc9GuIA.png" width="135" height="41" align="baseline" /></a></p>
+                </blockquote>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+    </blockquote></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCCC"><p><img src="http://i.imgur.com/oysXRzP.png" width="616" height="81" /></p></td>
+  </tr>
+</table>
+</body>
+</html>
+17/03/2014 09:25:25

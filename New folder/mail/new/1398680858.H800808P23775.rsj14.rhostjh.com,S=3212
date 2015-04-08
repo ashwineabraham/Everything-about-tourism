@@ -1,0 +1,69 @@
+Return-path: <>
+Envelope-to: worldfin@rsj14.rhostjh.com
+Delivery-date: Mon, 28 Apr 2014 04:27:38 -0600
+Received: from [74.220.209.79] (port=56507 helo=bounce4-pub.mail.unifiedlayer.com)
+	by rsj14.rhostjh.com with smtp (Exim 4.82)
+	id 1Weimg-00068U-LO
+	for worldfin@rsj14.rhostjh.com; Mon, 28 Apr 2014 04:27:38 -0600
+Received: (qmail 3546 invoked by uid 0); 28 Apr 2014 10:27:36 -0000
+Received: from unknown (HELO outbound-ss-1588.bluehost.com) (74.220.211.35)
+  by bounce4.mail.unifiedlayer.com with SMTP; 28 Apr 2014 10:27:36 -0000
+Received: (qmail 12330 invoked for bounce); 28 Apr 2014 10:27:36 -0000
+Date: 28 Apr 2014 10:27:36 -0000
+From: MAILER-DAEMON@bounce.mail.unifiedlayer.com
+To: worldfin@rsj14.rhostjh.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1398680855bounce.mail.unifiedlayer.com1320500"
+Subject: failure notice
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+--1398680855bounce.mail.unifiedlayer.com1320500
+
+Hi. This is the qmail-send program at bounce.mail.unifiedlayer.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<tarin.a.moore@gmail.com>:
+74.125.25.26 failed after I sent the message.
+Remote host said: 550-5.7.1 [74.220.211.35      12] Our system has detected that this message is
+550-5.7.1 likely unsolicited mail. To reduce the amount of spam sent to Gmail,
+550-5.7.1 this message has been blocked. Please visit
+550-5.7.1 http://support.google.com/mail/bin/answer.py?hl=en&answer=188131 for
+550 5.7.1 more information. pu6si10128804pac.430 - gsmtp
+
+--- Enclosed are the original headers of the message.
+
+--1398680855bounce.mail.unifiedlayer.com1320500
+Content-Type: message/rfc822
+
+Return-Path: <worldfin@rsj14.rhostjh.com>
+Received: (qmail 12277 invoked by uid 0); 28 Apr 2014 10:27:35 -0000
+Received: from unknown (HELO cmgw3) (67.20.127.203)
+  by soproxy1.mail.unifiedlayer.com with SMTP; 28 Apr 2014 10:27:35 -0000
+Received: from rsj14.rhostjh.com ([173.254.56.14])
+	by cmgw3 with 
+	id vNTY1n00D0JQiHH01NTbGi; Mon, 28 Apr 2014 04:27:35 -0600
+X-Authority-Analysis: v=2.1 cv=XPOjF2RE c=1 sm=1 tr=0
+ a=Fo12A6/W19xCaaMzav7fKg==:117 a=Fo12A6/W19xCaaMzav7fKg==:17 a=FmHr2O9TAAAA:8
+ a=f5113yIGAAAA:8 a=Wf7D_mFvtQ4A:10 a=wPDyFdB5xvgA:10 a=axMX1joxAAAA:8
+ a=6EBa5dxcFJ0A:10 a=r77TgQKjGQsHNAKrUKIA:9 a=9iDbn-4jx3cA:10
+ a=cKsnjEOsciEA:10 a=nS36O97Bj3wUElCrIrAA:9 a=wPNLvfGTeEIA:10
+ a=5Jy5gi5wDyLyw3vSwzoA:9 a=n3BslyFRqc0A:10 a=bhkaYMs-ANYA:10
+Received: from localhost ([127.0.0.1]:33858 helo=rsj14.rhostjh.com)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <worldfin@rsj14.rhostjh.com>)
+	id 1WeimZ-00060O-Ug
+	for tarin.a.moore@gmail.com; Mon, 28 Apr 2014 04:27:32 -0600
+Date: Mon, 28 Apr 2014 04:27:29 -0600
+To: tarin.a.moore@gmail.com
+Subject: test
+X-PHP-Originating-Script: 8106:pdfexport.php
+From:  95c08586@aim.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="==Multipart_Boundary_xb58a838f1341c5c1581933e4c2cde12cx"
+X-Identified-User: {:rsj14.rhostjh.com:worldfin:worldfinancesearchengines.com} {sentby:program running on server}
+
+(Body supressed)
+
+--1398680855bounce.mail.unifiedlayer.com1320500--

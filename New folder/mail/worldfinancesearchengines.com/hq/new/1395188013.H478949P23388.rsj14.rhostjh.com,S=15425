@@ -1,0 +1,324 @@
+Return-path: <resposta@scomemail.com.br>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Tue, 18 Mar 2014 18:13:33 -0600
+Received: from [62.75.228.233] (port=33890 helo=sender07.scomemail.com.br)
+	by rsj14.rhostjh.com with esmtp (Exim 4.80)
+	(envelope-from <resposta@scomemail.com.br>)
+	id 1WQ48S-0005yQ-Qu
+	for hq@worldfinancesearchengines.com; Tue, 18 Mar 2014 18:13:33 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=fpabramo.org.br;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=listmaster@fpabramo.org.br;
+ bh=SLJJJee0U9GPxXFt7E6Gp1wzy+g=;
+ b=K7QKAJYU2tlXWn9mP0dCnwChBYQMJvA+NZ1T5XdnUWlIjozNLhWOlU9WEFtd3iKylGsftZABZswF
+   54NVBZHhvSi5TW2F+YF/dbhnCxtYv4Ws0kFN7WqgyUifADeA0beH+bTWSqKvi4tyzHeQ97r8Ds/J
+   IRasa4QfP0srbyOgKSuaGhzRLpOzSK4hRUUkz2WZo27tX7pWOnbsQdo267HWz8h67NIrhvLt0fXp
+   9xd87e0OvtNejjhrVXAHRfEWXUVDhy3ZHb2pimbm5+JRT6h/2DGv0YkHkJjeOtkDSOyamARsY7Rq
+   GRlrgtDCO00pjoTLJq+1VLtakW6viuknjhtJ+w==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fpabramo.org.br;
+ b=e0ZXvGJlBmPum8TWgy/X/yk0V1lHnrUkDZWcb6y0UvV6mn/YKnmeLwsUa+PMV907Z7DfgPHZoRbJ
+   uwtvPKRPQZwnl+w/MXB264ayeQ+pTBmve6GDQbg2VzixSB2Co/HeyH0Wv9AwnyEXiyeqHs25fUVR
+   DC5A3xXfHkE96vtsT05Cg7OCLnL8Iy51SXfRaWz5RfeuejAAezu9z0MRrRaNj/PADTkwj1ucDxSB
+   bEMm7FfPJon4/bGd/eQ+SYfWRsAtjUTeDRmYLZjEg7rZdW+60ap/NZiLl1qy0+ewXoMSUM+l/gIk
+   vvvoeK2mIUVYTlp+YcpmDrhlIcRZPpLewlqokg==;
+To: hq@worldfinancesearchengines.com
+Subject: FPA Informa 126 - Emprego tem forte alta em fevereiro e gera saldo de 260 mil novas vagas
+Message-ID: <bf5b960aea41502aaceac21b654cd028@scomemail.com.br>
+Date: Tue, 18 Mar 2014 15:28:13 -0300
+From: "=?UTF-8?B?RnVuZGHDp8OjbyBQZXJzZXUgQWJyYW1v?=" <listmaster@fpabramo.org.br>
+Reply-To: listmaster@fpabramo.org.br
+MIME-Version: 1.0
+X-Mailer-LID: 15,50,54,5,8
+List-Unsubscribe: <http://scomemail.com.br/unsubscribe.php?M=278507&C=3916dc5cd4d0ce4a5e3dcef07c4b1020&L=8&N=81>
+X-Mailer-RecptId: 278507
+X-Mailer-SID: 81
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>FPA Informa 125</title>
+<style type="text/css">
+body {
+	margin-top: 0px;
+	text-align: left;
+}
+
+</style>
+</head>
+
+<body>
+<table border="0" align="center" cellpadding="0" cellspacing="0"
+style="width: 200px;">
+<tbody>
+<tr>
+<td><img
+src="http://novo.fpabramo.org.br/sites/default/files/fpa-informa-topo-v2.jpg"
+width="720" height="138" /></td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA"></td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA">
+<table border="0" align="center" cellpadding="0" cellspacing="8"
+style="width: 94%;">
+<tbody>
+<tr>
+<td width="89%" align="center"><img
+src="http://novo.fpabramo.org.br/sites/default/files/fpa-informa-titulo.jpg"
+width="378" height="43" align="right" /></td>
+<td width="11%" rowspan="2" align="center" bgcolor="#4F4B4C"
+style="font-family: Verdana; font-weight: bold; font-size: 24px; color:
+#ffffff;">126</td>
+</tr>
+<tr>
+<td align="right" style="font-family: Verdana; font-size: 14px; color:
+#000000;">18 de mar&ccedil;o de 2014</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA"><br />
+<table border="0" align="center" cellpadding="0" cellspacing="6"
+style="width: 680px;">
+<tbody>
+<tr>
+<td width="664" bgcolor="#D2232A">
+<table border="0" cellspacing="8" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td bgcolor="#D2232A" style="font-family: Verdana; font-weight: bold;
+font-size: 16px; color: #ffffff;">ECONOMIA NACIONAL</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="2"><a style="text-decoration: none; font-weight: bold;"><font
+color="#000000"><strong></strong><strong>Emprego tem forte alta em
+fevereiro e gera saldo de 260 mil novas vagas</strong>:
+</font></a></font><font color="#000000" face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="2">Segundo dados divulgados pelo
+Minist&eacute;rio do Trabalho, o Cadastro Geral de Empregados e
+Desempregados (CAGED) do m&ecirc;s de fevereiro apresentou saldo positivo
+de 260.823 novas vagas, mais que o dobro do mesmo per&iacute;odo do ano
+anterior. O resultado &eacute; o melhor para o m&ecirc;s de fevereiro desde
+2011 e ficou muito acima da m&eacute;dia das previs&otilde;es de
+cria&ccedil;&atilde;o de empregos dos analistas financeiros, que esperavam
+a gera&ccedil;&atilde;o de apenas 120 mil novas vagas. Com o resultado de
+fevereiro, contabiliza-se no ano a cria&ccedil;&atilde;o de 302.190 novas
+vagas, sendo que no acumulado de doze meses a cria&ccedil;&atilde;o
+l&iacute;quida de empregos soma 1,157 milh&otilde;es de novas oportunidades
+de trabalho. Os dados de fevereiro foram impulsionados pela
+cria&ccedil;&atilde;o liquida de 143.345 novas vagas no setor de
+servi&ccedil;os, seguido pela abertura de 51.951 novos postos de trabalho
+na ind&uacute;stria. Regionalmente, o sul do pa&iacute;s liderou a
+gera&ccedil;&atilde;o de novos empregos, com crescimento de 1,08% e 79.990
+novos postos gerados. Em segundo lugar, o nordeste aparece com aumento de
+0,27% e cria&ccedil;&atilde;o de 17.565 novos
+empregos.</font></font></font></font></font></font></font></font></font></font></font></td>
+</tr>
+<tr>
+<td height="138" bgcolor="#CCCCCC">
+<table border="0" cellspacing="6" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="2"><a style="text-decoration: none; font-weight: bold;"><font
+color="#000000"><strong>Coment&aacute;rio</strong>: </font></a></font><font
+color="#000000" face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="2">A forte expans&atilde;o da produ&ccedil;&atilde;o industrial, das
+vendas no varejo e do emprego no in&iacute;cio de 2014 contraria as
+an&aacute;lises mais pessimistas, que esperavam um cen&aacute;rio de
+baix&iacute;ssimo dinamismo (se falava at&eacute; em recess&atilde;o) no
+ano corrente. Obviamente, tais resultados precisam ser considerados em
+perspectiva, n&atilde;o podendo ser considerados sozinhos uma
+tend&ecirc;ncia de retomada do crescimento no longo prazo, mas certamente
+apontam para um primeiro trimestre positivo do ponto de vista do desempenho
+do PIB, do emprego e da renda. A preocupa&ccedil;&atilde;o reside no fato
+de que tal expans&atilde;o acelerada da atividade possa levar o Banco
+Central a prolongar o ciclo de aumento dos juros, dado o impacto
+inflacion&aacute;rio da estiagem do in&iacute;cio do ano e o potencial
+propagador da infla&ccedil;&atilde;o de uma economia mais acelerada. O
+cen&aacute;rio atual, no entanto, parece ser de infla&ccedil;&atilde;o sob
+controle (em patamares similares aos do ano passado) e de atividade em
+recupera&ccedil;&atilde;o, impulsionada pelo aumento do investimento e do
+emprego.
+</font></font></font></font></font></font></font></font></font></font></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA">
+<table border="0" align="center" cellpadding="0" cellspacing="8"
+style="width: 89%;">
+<tbody>
+<tr>
+<td colspan="3" align="center" bgcolor="#D2232A" style="font-family:
+Verdana; font-weight: bold; font-size: 14px; color: #ffffff;">AGENDA DO
+DIA</td>
+</tr>
+<tr style="font-family: verdana; font-size: 13px; color: #000000;">
+<td width="41%" align="center" bgcolor="#999999">EVENTO</td>
+<td width="22%" align="center" bgcolor="#999999">HOR&Aacute;RIO</td>
+<td width="37%" align="center" bgcolor="#999999">&Oacute;RG&Atilde;O DE
+DIVULGA&Ccedil;&Atilde;O</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#CCCCCC"><font face="Lucida Sans Unicode,
+Lucida Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font color="#000000"
+size="2">Infla&ccedil;&atilde;o/EUA</font></font></font></font></font></font></font></font></font></font></font></td>
+<td align="center" bgcolor="#CCCCCC"><font face="Lucida Sans Unicode,
+Lucida Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font color="#000000"
+size="2">9h30</font></font></font></font></font></font></font></font></font></font></font></td>
+<td align="center" bgcolor="#CCCCCC"><font color="#000000" size="2"
+face="Lucida Sans Unicode, Lucida Grande, sans-serif">FED</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#CCCCCC"><font face="Lucida Sans Unicode,
+Lucida Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font color="#000000"
+size="2">Expectativas/Alemanh&atilde;</font></font></font></font></font></font></font></font></font></font></font></td>
+<td align="center" bgcolor="#CCCCCC"><font face="Lucida Sans Unicode,
+Lucida Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font color="#000000"
+size="2">7h</font></font></font></font></font></font></font></font></font></font></font></td>
+<td align="center" bgcolor="#CCCCCC"><font face="Lucida Sans Unicode,
+Lucida Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font face="Lucida Sans Unicode, Lucida
+Grande, sans-serif" size="1"><font color="#000000"
+size="2">ZEW</font></font></font></font></font></font></font></font></font></font></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA"><br />
+<table border="0" align="center" cellpadding="0" cellspacing="8"
+style="width: 89%;">
+<tbody>
+<tr>
+<td><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font face="Lucida Sans Unicode, Lucida Grande, sans-serif"
+size="1"><font color="#000000" size="2">An&aacute;lise: Guilherme Mello,
+Economista</font></font></font></font></font></font></font></font></font></font></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA"><img
+src="http://novo.fpabramo.org.br/sites/default/files/fpa-informa-rodape-v2.jpg"
+width="720" height="100" /></td>
+</tr>
+<tr>
+<td bgcolor="#FAFAFA">
+<table border="0" align="center" cellpadding="0" cellspacing="8"
+style="width: 57%;">
+<tbody>
+<tr>
+<td align="center"><font color="#000000" size="1" face="Lucida Sans
+Unicode, Lucida Grande, sans-serif">Para cancelar o recebimento deste email
+clique <a
+href="http://scomemail.com.br/unsubscribe.php?M=278507&C=3916dc5cd4d0ce4a5e3dcef07c4b1020&L=8&N=81">aqui</a></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://scomemail.com.br/open.php?M=278507&L=8&N=81&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+

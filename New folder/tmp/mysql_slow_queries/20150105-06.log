@@ -1,0 +1,7 @@
+# Mon Jan  5 06:28:20 2015
+# Thread_id: 44543378  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 3.055125  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420464500
+

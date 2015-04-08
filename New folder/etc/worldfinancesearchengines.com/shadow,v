@@ -1,0 +1,195 @@
+head	1.12;
+access;
+symbols;
+locks
+	worldfin:1.12; strict;
+comment	@# @;
+
+
+1.12
+date	2014.09.15.23.48.16;	author worldfin;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.09.15.23.47.29;	author worldfin;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.09.15.23.47.26;	author worldfin;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.06.25.05.08.52;	author worldfin;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.06.25.05.08.48;	author worldfin;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.06.13.03.16.34;	author worldfin;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.06.02.04.05.31;	author worldfin;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.03.03.07.23.09;	author worldfin;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.03.03.07.10.41;	author worldfin;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.03.03.06.47.26;	author worldfin;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.03.03.06.47.26;	author worldfin;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.09.06.22.28.01;	author worldfin;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@hq:$1$5eTHqzCD$PlIJgYgQUrMuMoQxgJ2ZF/:16132::::::
+finance:$1$wGOIedCV$HYAxtYnCGp3Ibf9Gf5S5D1:16132::::::
+tarin:$1$JVdeHOJO$fUWfvczgFznEdDkqgAu4z1:16132::::::
+manager:$6$LzkdVioxRvooeLik$BOW1neJzQjc0pNIuKcm1/UCxBP7KQrncYDenX5424PxafOzf0/Ci1FCUW0BWepr/wiTSVE1qPvozjTgswckaE/:16328::::::
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+manager:$6$XUmerDxoljfK3niR$31ehqdsHPjJ.WStQ5hIiHQnvGTm6Aj7wsRWXKawIioybGQedO1jRdNfDgA8Nzf3b/5HVX2LJexJCn5xf2/v8o0:16223::::::
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+a4 1
+manager:$6$15jyrG/raIct8JVB$wKlFTtM90wTKPwKp..F8nzDq/s/hqPXubWk4BfriXpBBUW5Q5TGxtmQMD4J0sp/mRVldJnelDNgBM7GGXJLab0:16223::::::
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+brian:$6$YgKqfd07P8GJMdgu$j3cVoShwLdca2oK6w/TJQ1irrITh7MND1iCc//onZsMCnv.fsjk2/ahhlMfencBI4OYus4vtH9gdcmWV/fKju1:15223::::::
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+brian:$1$TBP6psZi$g6ihgTmavs0giK3IE.LIW/:15223::::::
+d5 1
+a5 1
+manager:$6$ahClgEm8DYqJABtW$LOeb805FuNtMa0Nl/7AERkyXFwOZU3a2vy6LHY5aEeBeqycW6LKi12aRI6uUVGZH/.hWquf8vU.PcJkjeslK5.:16223::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+a5 1
+manager:$6$jA01Tk6YgM5jqi7W$INAg0od7hQqX1xBDaTkQlzaJ50ErpeilmURgNTNbRJ8GaZ1ZV/wln6XUq3aaZEusFZnpcDlgohgnXi5Ny3zDC1:16223::::::
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+brian:$1$ZaLbD7pk$KeH1fHZvd/FuJjOZwK6r01:15223::::::
+@

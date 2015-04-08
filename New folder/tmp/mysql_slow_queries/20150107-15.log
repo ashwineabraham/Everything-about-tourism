@@ -1,0 +1,27 @@
+# Wed Jan  7 15:14:40 2015
+# Thread_id: 48636944  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.169039  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420668880
+
+# Wed Jan  7 15:14:40 2015
+# Thread_id: 48636934  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.169643  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+SET timestamp=1420668880
+
+# Wed Jan  7 15:29:44 2015
+# Thread_id: 48650747  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 3.840677  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420669784
+
+# Wed Jan  7 15:44:14 2015
+# Thread_id: 48665880  Schema: worldfin_finance  Last_errno: 0  Killed: 0
+# Query_time: 1.403175  Lock_time: 0.000000  Rows_sent: 0  Rows_examined: 0  Rows_affected: 0  Rows_read: 0
+# Bytes_sent: 11
+use worldfin_finance;
+SET timestamp=1420670654
+

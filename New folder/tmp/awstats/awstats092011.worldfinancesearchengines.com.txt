@@ -1,0 +1,341 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201109 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2537                
+POS_VISITOR 6978                
+POS_DAY 8130                
+POS_DOMAIN 3139                
+POS_LOGIN 3432                
+POS_ROBOT 3587                
+POS_WORMS 3868                
+POS_EMAILSENDER 3999                
+POS_EMAILRECEIVER 4142                
+POS_SESSION 8611                
+POS_SIDER 8768                
+POS_FILETYPES 4277                
+POS_OS 4357                
+POS_BROWSER 4478                
+POS_SCREENSIZE 4672                
+POS_UNKNOWNREFERER 4746                
+POS_UNKNOWNREFERERBROWSER 4997                
+POS_ORIGIN 5199                
+POS_SEREFERRALS 5331                
+POS_PAGEREFS 5485                
+POS_SEARCHWORDS 5747                
+POS_KEYWORDS 5958                
+POS_MISC 2201                
+POS_ERRORS 6082                
+POS_CLUSTER 3288                
+POS_SIDER_404 6167                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111001023203 5 576 6914372848603
+FirstTime 20110906023811
+LastTime 20110930080704
+LastUpdate 20111001073031 5 0 4 0 0
+TotalVisits 49                  
+TotalUnique 29                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 1188 11 11 2392
+1 1 1 396 4 7 1200
+2 5 5 1988 7 8 396
+3 4 4 1592 9 10 1992
+4 1 1 400 7 8 1200
+5 4 4 1592 11 13 1988
+6 2 2 792 7 9 1200
+7 1 1 400 7 8 800
+8 3 3 1192 7 8 1196
+9 2 2 792 6 7 800
+10 1 1 0 9 9 1596
+11 7 7 2788 8 9 1200
+12 0 0 0 7 10 800
+13 0 0 0 10 11 800
+14 1 1 400 9 9 800
+15 4 4 1588 8 10 1992
+16 3 3 1192 4 5 800
+17 1 1 400 3 5 0
+18 4 4 1592 11 11 1196
+19 1 1 400 9 12 792
+20 2 2 800 8 9 1588
+21 1 1 400 7 7 2392
+22 1 1 400 10 13 1980
+23 1 1 400 1 1 400
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 42 42 16312
+au 4 4 1592
+de 2 2 800
+ru 2 2 792
+il 1 1 396
+ro 1 1 400
+ca 1 1 400
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[+:,\.\;\/\\-] 58 23132 20110930151541 0
+googlebot 11 4368 20110928011922 0
+no_user_agent 4 1600 20110909212715 0
+netcraft 1 400 20110926182845 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 51 19900 0 0
+com 2 792 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winxp 34
+winlong 5
+win98 1
+linux 1
+winme 3
+macosx 1
+win2003 1
+Unknown 4
+win2008 3
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie6.0 21
+msie8.0 2
+firefox2.0.0.20 1
+chrome 2
+msie7.0 15
+firefox3.5.8 2
+opera 2
+wget 1
+msie9.0 1
+msie5.5 1
+Unknown 3
+safari 1
+firefox3.0.8 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Python-urllib/2.6 20110918185647
+Java/1.6.0_25 20110906204943
+Wget/1.11.4_Red_Hat_modified 20110912110409
+SEOstats_2.0.8_code.google.com/p/seostats/ 20110923104657
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python-urllib/2.6 20110918185647
+Java/1.6.0_25 20110906204943
+SEOstats_2.0.8_code.google.com/p/seostats/ 20110923104657
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 49 49
+From1 0 0
+From2 2 2
+From3 2 2
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.we-globe.net/Weblab/SiteCommonGraveReport/worldfinancesearchengines.com/ 1 1
+http://heritagemp.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+worldfinancesearchengines.com+- 1
+finance+search+engines 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+- 1
+engines 1
+search 1
+worldfinancesearchengines.com 1
+finance 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 136 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+/widgets/gen_6.1.gif 3 -
+/widgets/gen_5.1.gif 3 -
+/widgets/gen_3.1.gif 3 -
+/c 1 -
+/robots.txt 86 -
+/widgets/gen_8.1.gif 3 -
+/.git/HEAD 1 -
+/cgi-bin/ 3 -
+/widgets/gen_22.1.gif 1 -
+/contact.html 8 -
+/index.html 4 -
+/administrator/ 1 -
+/shop/admin/banner_manager.php/login.php 1 -
+/widgets/gen_7.1.gif 3 -
+/widgets/gen_30.1.gif 1 -
+/widgets/gen_25.1.gif 3 -
+/widgets/gen_20.1.gif 1 -
+/widgets/gen_9.1.gif 3 -
+/widgets/gen_13.1.gif 2 -
+/widgets/gen_4.1.gif 2 -
+/widgets/gen_24.1.gif 2 -
+/.hg/requires 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+208.80.194.29 5 5 1988 20110930020203
+208.80.194.28 5 5 1988 20110928172236
+208.80.194.37 4 4 1592 20110930000537
+208.80.194.27 4 4 1592 20110928151721
+208.80.194.33 3 3 1192 20110919032005
+208.80.194.26 3 3 1196 20110925232055
+46.4.95.200 2 2 792 20110930080704
+208.80.194.36 2 2 792 20110927064415
+64.202.161.41 2 2 792 20110920050556
+208.80.194.35 2 2 800 20110920113330
+77.73.1.240 2 2 792 20110908114925
+58.170.3.37 2 2 792 20110906023846
+208.80.194.31 1 1 396 20110921091849
+208.80.194.63 1 1 400 20110912054828
+188.138.90.118 1 1 400 20110920110456
+208.80.194.34 1 1 400 20110927084845
+184.82.131.106 1 1 400 20110911043734
+72.94.249.38 1 1 400 20110916142042
+209.20.69.196 1 1 400 20110918185647
+216.104.15.138 1 1 396 20110906033047
+124.180.62.148 1 1 400 20110915181943
+184.107.155.35 1 1 400 20110912110409
+67.227.212.223 1 1 0 20110923104657
+38.100.21.18 1 1 400 20110913114603
+120.146.163.88 1 1 400 20110923022615
+93.116.238.173 1 1 400 20110906204943
+208.80.194.60 1 1 396 20110922182948
+188.138.121.24 1 1 400 20110907193639
+62.219.132.115 1 1 396 20110917010126
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20110906 5 5 1984 4
+20110907 2 2 800 2
+20110908 3 3 1188 2
+20110910 2 2 796 2
+20110911 2 2 796 2
+20110912 2 2 800 2
+20110913 3 3 1196 3
+20110914 1 1 396 1
+20110915 2 2 800 2
+20110916 2 2 796 2
+20110917 3 3 1192 3
+20110918 2 2 796 2
+20110919 1 1 400 1
+20110920 5 5 1988 4
+20110921 2 2 796 2
+20110922 1 1 396 1
+20110923 3 3 800 3
+20110924 2 2 796 2
+20110925 2 2 796 2
+20110927 2 2 796 2
+20110928 2 2 796 2
+20110930 4 4 1588 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 47
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 51 19900 48 48
+http://WORLDFINANCESEARCHENGINES.COM 2 792 1 1
+END_SIDER

@@ -1,0 +1,323 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201112 will be lost/reset.
+# Last config file used to build this data file was /home/worldfin/tmp/awstats/awstats.worldfinancesearchengines.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2023                
+POS_TIME 2696                
+POS_VISITOR 6813                
+POS_DAY 7926                
+POS_DOMAIN 3316                
+POS_LOGIN 3587                
+POS_ROBOT 3742                
+POS_WORMS 4093                
+POS_EMAILSENDER 4224                
+POS_EMAILRECEIVER 4367                
+POS_SESSION 8486                
+POS_SIDER 8633                
+POS_FILETYPES 4502                
+POS_DOWNLOADS 4584                
+POS_OS 4632                
+POS_BROWSER 4750                
+POS_SCREENSIZE 4917                
+POS_UNKNOWNREFERER 4991                
+POS_UNKNOWNREFERERBROWSER 5103                
+POS_ORIGIN 5210                
+POS_SEREFERRALS 5342                
+POS_PAGEREFS 5497                
+POS_SEARCHWORDS 5674                
+POS_KEYWORDS 5858                
+POS_MISC 2360                
+POS_ERRORS 5949                
+POS_CLUSTER 3443                
+POS_SIDER_404 6046                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120101005928 6 786 8569839841105
+FirstTime 20111201031948
+LastTime 20111230183658
+LastUpdate 20120101063009 6 0 5 0 0
+TotalVisits 63                  
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 796 7 13 1992
+1 4 4 1592 13 21 3251
+2 3 3 1192 9 14 2392
+3 3 3 1192 5 10 1192
+4 2 2 792 4 8 1196
+5 9 9 3584 20 29 2914
+6 1 1 400 2 4 800
+7 4 4 1592 8 15 2847
+8 2 2 800 6 10 2055
+9 1 1 400 4 6 1255
+10 1 1 400 3 7 800
+11 1 1 396 9 14 3184
+12 4 4 1592 10 18 3247
+13 1 1 400 8 12 3180
+14 2 2 796 9 15 2518
+15 2 2 796 7 11 1714
+16 2 2 792 3 4 855
+17 3 3 1192 3 5 796
+18 3 3 1200 3 5 855
+19 6 6 2388 7 13 2106
+20 2 2 800 0 0 0
+21 2 2 800 15 26 4376
+22 3 3 1192 8 14 1600
+23 3 3 1196 7 12 1996
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 58 58 23108
+de 5 5 1980
+se 1 1 400
+id 1 1 396
+ru 1 1 396
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 78 31080 20111231165620 0
+spider 10 3968 20111230081854 0
+googlebot 8 3188 20111226051135 0
+crawl 3 1200 20111230115927 0
+[\s_+:,\.\;\/\\-]bot 1 400 20111218020213 0
+netcraft 1 400 20111229234038 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 66 26280 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 5
+winxp 48
+winlong 6
+win2003 1
+win2000 2
+Unknown 1
+linuxfedora 2
+win7 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 9
+msie6.0 20
+firefox3.5.8 2
+firefox3.0.6 1
+msie7.0 34
+safari4.0.4 3
+msie9.0 1
+Unknown 1
+firefox3.5.3 2
+firefox3.6.15 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+scour/1.0 20111229194902
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+scour/1.0 20111229194902
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 56
+From1 0 0
+From2 1 1
+From3 7 7
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.orangeask.com 7 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+worldfinancesearchengines.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+worldfinancesearchengines.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 15 6885
+404 170 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 13
+/wp-content/plugins/zingiri-web-shop/fws/ajax/init.inc.php 1 -
+/index.html 5 -
+/c 3 -
+/wp-content/plugins/enable-latex/core.php 1 -
+/robots.txt 116 -
+/wp-content/plugins/livesig/livesig-ajax-backend.php 1 -
+/wp-content/plugins/allwebmenus-wordpress-menu-plugin/actions.php 1 -
+/cgi-bin/ 34 -
+/wp-content/plugins/annonces/includes/lib/photo/uploadPhoto.php 1 -
+/wp-includes/functions.php 1 -
+/index-9x.jsp 1 -
+/fwkfor/ajax/init.inc.php 1 -
+/contact.html 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+208.80.194.26 7 7 2788 20111229070001
+50.23.239.14 7 7 2800 20111227100728
+208.80.194.30 6 6 2392 20111225155115
+208.80.194.29 5 5 1992 20111228002440
+208.80.194.34 3 3 1192 20111219020824
+208.80.194.37 3 3 1196 20111230183658
+208.80.194.33 3 3 1192 20111220203301
+208.80.194.67 3 3 1192 20111230164732
+67.207.136.128 3 3 1200 20111226011239
+88.198.66.216 2 2 792 20111218014028
+46.4.100.138 2 2 792 20111216125834
+208.80.194.36 2 2 800 20111215064941
+208.80.194.35 2 2 800 20111224014127
+64.202.161.41 2 2 792 20111220051524
+69.58.178.57 2 2 800 20111202054550
+208.80.194.27 2 2 792 20111215051239
+125.167.236.151 1 1 396 20111224054535
+50.16.157.249 1 1 396 20111229194902
+208.80.194.58 1 1 396 20111202110744
+38.100.21.11 1 1 400 20111208231212
+46.73.4.95 1 1 396 20111214033601
+72.94.249.38 1 1 400 20111222224839
+50.18.234.42 1 1 400 20111223054724
+141.255.184.209 1 1 400 20111207083124
+208.80.194.59 1 1 396 20111227225350
+208.80.194.28 1 1 396 20111208073328
+46.4.221.189 1 1 396 20111202022845
+208.80.194.66 1 1 396 20111217221010
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20111201 2 2 796 2
+20111202 5 5 1992 4
+20111203 2 2 796 2
+20111205 3 3 1196 3
+20111207 2 2 800 2
+20111208 3 3 1196 3
+20111210 3 3 1192 3
+20111211 2 2 800 2
+20111212 2 2 796 2
+20111213 2 2 800 2
+20111214 1 1 396 1
+20111215 2 2 796 2
+20111216 6 6 2388 6
+20111217 2 2 796 2
+20111218 2 2 792 1
+20111219 3 3 1196 3
+20111220 4 4 1588 3
+20111222 4 4 1596 4
+20111223 2 2 796 2
+20111224 2 2 796 2
+20111225 2 2 796 2
+20111226 3 3 1196 3
+20111227 2 2 796 2
+20111228 1 1 400 1
+20111229 2 2 792 2
+20111230 2 2 796 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 63
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 66 26280 63 63
+END_SIDER

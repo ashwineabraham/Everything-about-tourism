@@ -1,0 +1,311 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201206 will be lost/reset.
+# Last config file used to build this data file was /home4/worldfin/tmp/awstats/awstats.worldfinancesearchengines.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2024                
+POS_TIME 2688                
+POS_VISITOR 6949                
+POS_DAY 7653                
+POS_DOMAIN 3272                
+POS_LOGIN 3564                
+POS_ROBOT 3719                
+POS_WORMS 4059                
+POS_EMAILSENDER 4190                
+POS_EMAILRECEIVER 4333                
+POS_SESSION 7998                
+POS_SIDER 8166                
+POS_FILETYPES 4468                
+POS_DOWNLOADS 4550                
+POS_OS 4598                
+POS_BROWSER 4735                
+POS_SCREENSIZE 4997                
+POS_UNKNOWNREFERER 5071                
+POS_UNKNOWNREFERERBROWSER 5414                
+POS_ORIGIN 5529                
+POS_SEREFERRALS 5661                
+POS_PAGEREFS 5816                
+POS_SEARCHWORDS 6052                
+POS_KEYWORDS 6204                
+POS_MISC 2352                
+POS_ERRORS 6263                
+POS_CLUSTER 3420                
+POS_SIDER_404 6360                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120701033245 11 1402 5807903969081
+FirstTime 0
+LastTime 20120630235737
+LastUpdate 20120701072105 11 0 10 0 0
+TotalVisits 21                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 5 855
+1 4 4 1600 6 17 1592
+2 4 4 1600 8 14 1600
+3 0 0 0 11 22 2851
+4 3 3 1200 11 15 1710
+5 1 1 400 7 10 2051
+6 0 0 0 3 6 1200
+7 0 0 0 7 11 1259
+8 0 0 0 5 9 1318
+9 0 0 0 6 10 1718
+10 0 0 0 5 7 1318
+11 0 0 0 6 11 1655
+12 0 0 0 3 5 459
+13 2 2 796 3 4 396
+14 1 1 396 6 9 1592
+15 0 0 0 9 13 1655
+16 0 0 0 6 12 1655
+17 1 1 396 8 13 2847
+18 1 1 400 5 9 855
+19 0 0 0 2 2 396
+20 0 0 0 10 14 1992
+21 3 3 1196 3 6 859
+22 2 2 796 4 7 1259
+23 6 6 2400 1 7 396
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+de 7 7 2792
+us 7 7 2796
+au 6 6 2400
+nl 5 5 1996
+il 1 1 396
+ca 1 1 400
+pl 1 1 400
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 43 17144 20120630175748 0
+googlebot 6 2388 20120625085513 0
+crawl 5 2000 20120627033159 0
+no_user_agent 4 1188 20120626174204 0
+spider 3 796 20120612024744 0
+slurp 2 792 20120614193404 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 28 11180 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+macosx 1
+linuxandroid 1
+winunknown 1
+winxp 12
+win2003 1
+Unknown 5
+linuxfedora 2
+winvista 1
+win7 4
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+msie6.0 1
+firefox5.0 1
+android 1
+libwww 1
+firefox3.5.2 1
+firefox12.0 1
+firefox3.5.3 2
+opera9.80 1
+msie8.0 6
+mozilla 3
+msie7.0 3
+msie10.0 1
+firefox6.0 1
+msie10.6 1
+Unknown 1
+safari 1
+firefox11.0 1
+firefox3.0.8 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Python-urllib/2.6 20120615212653
+Mozilla/5.0_(compatible;_Lipperhey_Link_Explorer;_http://www.lipperhey.com/) 20120613023301
+Mozilla/5.0_(compatible;_Dataprovider_Site_Explorer;_http://www.dataprovider.com/) 20120622043405
+libwww-perl/5.826 20120613214033
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Python-urllib/2.6 20120615212653
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24 24
+From1 0 0
+From2 1 1
+From3 1 1
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.we-globe.net/Weblab/SiteCommonGraveReport/worldfinancesearchengines.com/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 20 9180
+404 151 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 8
+/c 4 -
+/sitemap.xml 1 -
+/phpmyadmin/scripts/setup.php 1 http://WORLDFINANCESEARCHENGINES.COM/phpmyadmin/scripts/setup.php
+/index.html 2 -
+/myadmin/scripts/setup.php 1 http://WORLDFINANCESEARCHENGINES.COM/myadmin/scripts/setup.php
+/robots.txt 96 -
+/cgi-bin/ 44 -
+/contact.html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+176.9.138.23 5 5 2000 20120630235737
+119.225.171.42 5 5 2000 20120606020259
+82.192.75.60 3 3 1200 20120622043405
+69.58.178.58 2 2 800 20120603025833
+83.19.43.94 1 1 400 20120613214033
+67.217.35.25 1 1 400 20120607184851
+66.249.17.218 1 1 400 20120623230338
+94.75.255.140 1 1 396 20120601133623
+209.20.69.196 1 1 400 20120615212653
+119.225.237.247 1 1 400 20120613233831
+213.206.102.102 1 1 400 20120613023301
+176.9.111.204 1 1 396 20120609145103
+46.4.232.249 1 1 396 20120617213557
+184.107.247.202 1 1 400 20120616051507
+23.22.18.215 1 1 396 20120604220037
+38.100.21.13 1 1 400 20120606133903
+62.219.132.115 1 1 396 20120608175924
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20120601 1 1 396 1
+20120602 1 1 400 1
+20120603 2 2 800 1
+20120604 1 1 396 1
+20120606 6 6 2400 2
+20120607 1 1 400 1
+20120608 1 1 396 1
+20120609 2 2 796 2
+20120613 3 3 1200 3
+20120615 1 1 400 1
+20120616 2 2 800 2
+20120617 1 1 396 1
+20120622 3 3 1200 1
+20120623 2 2 800 2
+20120630 1 1 400 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+0s-30s 19
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 28 11180 21 21
+END_SIDER

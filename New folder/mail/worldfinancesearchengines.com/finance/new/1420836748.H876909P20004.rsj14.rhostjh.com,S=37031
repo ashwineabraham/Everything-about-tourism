@@ -1,0 +1,922 @@
+Return-path: <FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b@apac.e.paypal.com>
+Envelope-to: finance@worldfinancesearchengines.com
+Delivery-date: Fri, 09 Jan 2015 13:52:28 -0700
+Received: from [96.47.30.196] (port=57875 helo=outbound.apac.e.paypal.com)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b@apac.e.paypal.com>)
+	id 1Y9gXi-00058y-K6
+	for finance@worldfinancesearchengines.com; Fri, 09 Jan 2015 13:52:28 -0700
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@e.paypal.com; t=1420836743;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=kQflcseVRMhsuifhfS3vsryDVW8=;
+	b=f54Q5IxHLamjVwDnlUuKSUNwHo9BZBK0ZY3vk1DjWRrxr3f/PwVIH68pKF/vLryT
+	C4V77yejROxTj4Vz6k/Gjk+VArMEt3FyVm7XCjlrYk4Xw/6/4IbfyMoicRCJlV6j
+	leH/LqDNcCtXpG643k51VHx2rzJiiFWGd27RWuvQPOI=;
+Received: from [127.0.0.1] ([127.0.0.1:58989])
+	by bm1-26.bo3.e-dialog.com (envelope-from <FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b@apac.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 45/43-20386-78F30B45; Fri, 09 Jan 2015 15:52:23 -0500
+Date: Fri, 09 Jan 2015 15:52:23 -0500
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com>
+Reply-To: "PayPal" <noreply@e.paypal.com>
+To: finance@worldfinancesearchengines.com
+Subject:  Peter Yeo, important updates
+ to our legal agreements
+Message-Id: <32332-965-FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b@e-dialog.com>
+X-Mail-From: FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b@apac.e.paypal.com
+X-Match: apac.e.paypal.com
+X-RCPT-To: finance@worldfinancesearchengines.com
+X-Mailer: EDMAIL R6.00.02
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Important information about changes to our products and services
+
+To ensure that you are able to receive our emails, please add =E2=80=9C@e.p=
+aypal.com=E2=80=9D to your safe senders list. For more information, please =
+click here.
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/N85M13/DD/t
+
+
+View online:
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/XM9IMZ/DD/t?a=
+=3DFDYBUX9&b=3DZ4IVQA&c=3DP83WRHK&d=3DJOH58K&e=3D1&f=3D97d882f90be4cf69f87d
+=20
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+PayPal=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+
+We=E2=80=99re making changes to our legal agreements=20
+
+Dear Peter Yeo,
+
+From time to time we amend our legal agreements to reflect changes in our p=
+roducts and services.=20
+
+Next month we=E2=80=99ll be making some changes that we want to bring to yo=
+ur attention.
+=20
+=E2=80=A2 We=E2=80=99re introducing a new tier of lower pricing for sellers=
+ with a monthly sales volume between $2,500 and $5,000. The rate for this t=
+ier will be 2.2% + fixed fee.=20
+=E2=80=A2 For sellers with a monthly sales volume of less than $2,500, the =
+standard rate will be changed to 2.6% + fixed fee. We=E2=80=99ve also chang=
+ed the standard rate for all other types of commercial transactions.
+=E2=80=A2 For sellers using Website Payments Pro and whose monthly sales vo=
+lume is over $150,000, we have amended the rate for cross-border transactio=
+ns to 2.5% + fixed fee.
+=E2=80=A2 We=E2=80=99ve clarified when our Seller Protection Policy does no=
+t apply.
+=E2=80=A2 We=E2=80=99ve made some changes to our Privacy Policy.
+
+The changes will automatically take effect on 12 February 2015 and we have =
+updated the Combined Financial Services Guide and Product Disclosure Statem=
+ent, the User Agreement and the Privacy Policy.
+
+For more detail on these changes, and how they may impact you, please see o=
+ur Policy Updates page or visit paypal.com.au, click Legal at the bottom of=
+ the page and then Policy Updates.
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/W7QY7Z/DD/t
+
+As always, if you need help or have any questions, please visit our Help Ce=
+ntre or go to paypal.com.au and click Contact.
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/1XFSXX/DD/t
+
+---------------------------------------------------------------------
+
+Forgot Password:
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/3D3RDY/DD/t
+
+Contact Us:
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/2KNJKY/DD/t
+
+Privacy:
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/MGMAGO/DD/t
+
+---------------------------------------------------------------------
+
+How do I know this is not a fake email?
+Remember, fake or 'phishing' emails tend to have generic greetings such as =
+"Dear PayPal member". Emails from PayPal will always address you by your fi=
+rst and last name.=20
+If unsure, forward the suspicious email to phishing@paypal.com.au and we=E2=
+=80=99ll let you know if it=E2=80=99s really coming from us or not.=20
+
+Find out more about fake and phishing emails
+https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/BRGTRP/DD/t
+
+__________________________________________________________________=20
+=20
+This email was sent to finance@worldfinancesearchengines.com because you ar=
+e a PayPal user.
+
+ The PayPal service is provided by PayPal Australia Pty Limited (ABN 93 111=
+ 195 389) which holds Australian Financial Services Licence number 304962.
+
+
+[[FDYBUX9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1" />=20
+<meta content=3D"width=3Ddevice-width; initial-scale=3D1.0; maximum-scale=
+=3D1.0; user-scalable=3Dyes;" name=3D"viewport" />
+<title>important updates to our legal agreements</title>
+<style type=3D"text/css">
+
+=20
+/* Email Client BUG Fixes */
+.ReadMsgBody, .ExternalClass { width: 100%; background-color: #ffffff;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;}
+body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none;}
+body { margin: 0; padding: 0;}
+* { margin: 0; padding: 0;}
+table { border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;}
+
+table td { border-collapse:  collapse; border-spacing: 0;}
+img { border: 0;}
+html { width: 100%; height: 100%;}
+.applelinks a { color: #8c8c8c !important; text-decoration: none !important=
+;}
+.applelinks2 a { color: #ffffff !important; text-decoration: none !importan=
+t;}
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+/* Clickable phone numbers */
+a[href^=3D"tel"], a[href^=3D"sms"] {  text-decoration: none; color: #767676=
+; pointer-events: none; cursor: default;}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] { text-decorat=
+ion: default;  color: #767676 !important; pointer-events: auto;  cursor: de=
+fault;}
+=20
+=20=20
+/* Media Queries */=20
+@media only screen and (max-width: 639px) {
+
+=20
+/* Default */
+* { line-height: normal!important;}
+body {width: auto!important;}
+body[yahoo] .nomob {display:none !important;}=20=20=20=20=20=20=20
+
+body[yahoo] .logoresize {
+=09
+=09
+
+background-size: 119px 31px !important;
+width:119px !important;
+	height:31px !important;
+	display:block !important;
+}=20=20=20=20=20=20=20
+body[yahoo] .nobg { background: none !important;}=20=20=20=20
+body[yahoo] .nopadding { padding: 0 0 0 0 !important;}=20=20=20
+body[yahoo] .nopaddinglc { padding: 0 0 0 0 !important; text-align:center !=
+important;}=20=20
+body[yahoo] .noheight { height: auto !important;}=20=20=20
+=20
+/* Adjust table widths at smaller screen sizes */
+body[yahoo] .table {width: 100%  !important; height:auto; border: none !imp=
+ortant;}
+
+body[yahoo] .table200 {width: 100%  !important; border: none !important;}
+body[yahoo] .table30 {width: 100%  !important; border: none !important; pad=
+ding:15px 30px !important;}
+body[yahoo] .tableH {width: 100% !important; height:1px !important; border:=
+ none !important;}
+body[yahoo] .tableH21 {width: 100% !important; height:21px !important; bord=
+er: none !important;}
+body[yahoo] .tablepad10 {width: 100% !important; height:10px !important; bo=
+rder: none !important;}
+/* Adjust max table width */
+body[yahoo] .table95per {width: 95%  !important; border: none !important;}
+body[yahoo] .table95perac {width: 95%  !important; border: none !important;}
+body[yahoo] .whiteMod { width: 100% !important; display:block !important; b=
+ackground-color:#FFFFFF !important; border: 1px solid #e3e3e3 !important; -=
+webkit-border-radius: 5px!important;-moz-border-radius: 5px!important;borde=
+r-radius: 5px!important;}
+/* Adjust table heights at smaller screen sizes */
+=20
+=20
+/* Header */=20
+body[yahoo] .subjectline {width: 100%  !important; text-align:left !importa=
+nt; float:left !important}
+body[yahoo] .floatleft {width: 100%  !important; text-align:left !important=
+; float:left !important; margin-top: 5px !important; padding-top:15px !impo=
+rtant;}
+/* Body Content*/
+body[yahoo] .padding15px { padding: 0px 15px !important;}
+body[yahoo] .padding19TB { padding: 19px 0px !important;}
+body[yahoo] .padding19TBL { padding: 19px 29px 0px 20px !important;}
+body[yahoo] .padding10top { padding: 10px 0 0 0 !important;}
+body[yahoo] .padding30px { padding: 0px 30px !important;}
+body[yahoo] .padding20px { padding: 20px 20px  !important;}
+
+
+body[yahoo] .padding15 { padding: 15px !important;}
+body[yahoo] .padding15T { padding: 25px 15px !important;}
+body[yahoo] .padding1520b { padding: 20px 15px 15px 15px !important;}
+body[yahoo] .padding30 { padding: 30px !important;}
+body[yahoo] .padding1520 { padding: 20px 0px 15px 0px !important;}
+body[yahoo] .pad15t20b { padding: 15px 0px 25px 0px !important;}
+body[yahoo] .pad15t30b { padding: 15px 0px 30px 0px !important;}
+body[yahoo] .pad30LR { padding: 15px 30px  !important;}
+body[yahoo] .font16 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:16px !important; line-height: 24px !important; heig=
+ht: auto !important; }
+body[yahoo] .font30 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:30px !important; line-height: 36px !important;}
+body[yahoo] .font28 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:26px !important; line-height: 36px !important;}
+body[yahoo] .heroImg {width: 100%  !important; height:auto !important}
+body[yahoo] .butimg {width: 100%  !important; height:auto !important}
+/* Footer */
+
+body[yahoo] .show_in_mob {display: block!important; max-height: none !impor=
+tant; height: auto!important; 	width: 100%!important; }
+body[yahoo] .image_resize {width: 100%  !important; height:auto !important;}
+
+body[yahoo] .footerLinks { width: 100% !important; margin-bottom: 8px !impo=
+rtant; padding: 10px 0 !important; display:block !important; background-col=
+or:#d5d5d5 !important; -webkit-border-radius: 5px!important;-moz-border-rad=
+ius: 5px!important;border-radius: 5px!important; text-align:center !importa=
+nt;}
+body[yahoo] .resize12h { height: 12px  !important; }
+body[yahoo] .font11 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:11px !important; line-height: 16px !important; text=
+-decoration:none !important;}
+body[yahoo] .font14 { -webkit-text-size-adjust:none; -webkit-font-smoothing=
+:antialiased; font-size:14px !important; line-height: 21px !important; text=
+-decoration:none !important;}
+body[yahoo] .utility_nav {
+	-webkit-text-size-adjust:none; -webkit-font-smoothing:antialiased;
+	font-size: 12px !important;
+	line-height:16px !important;
+	text-align: center !important;
+
+}
+body[yahoo] .ultility_nav_padding {
+	padding: 19px 0 21px 0 !important;
+	text-align: center;
+	width: 300px !important;
+
+}
+
+
+
+</style>
+</head>
+=20
+<body style=3D"width:100% !important; color:#767676; background:#f2f2f2; fo=
+nt-family: Helvetica, Arial, sans-serif; font-size:13px; margin:0; padding:=
+0;" yahoo=3D"fix">
+=20
+<!--  Master template  -->
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center" bgcolor=3D"#f2f2f2" style=3D"width:100% !important; margin:0; =
+padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top">
+      <!-- preheader --><!-- /end preheader -->
+=20=20=20=20=20=20
+
+=20=20=20=20=20=20
+=20=20
+  <table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"table95per">
+  <tr>
+    <td  align=3D"left" valign=3D"top" style=3D"padding:15px 0px 15px 0px; =
+">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"450"=
+ align=3D"left" class=3D"subjectline">
+        <tr>
+          <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:=
+ 12px; font-size: 12px; color:#666666; text-decoration: none; line-height: =
+19px;">Important information about changes to our products and services</td>
+          </tr>
+  </table>
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"190" ali=
+gn=3D"right" class=3D"subjectline">
+    <tr>
+      <td align=3D"right" style=3D"font-family: Helvetica, Arial, sans-seri=
+f; font-size: 12px; color:#666666; text-decoration: none; line-height: 19px=
+;" class=3D"floatleft"><a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/4YPFYS=
+/DD/h?a=3DFDYBUX9&b=3DZ4IVQA&c=3DP83WRHK&d=3DJOH58K&e=3D1&f=3D97d882f90be4c=
+f69f87d" style=3D"font-family: Helvetica, Arial,  sans-serif; font-size: 12=
+px; color:#666666; text-decoration: underline; line-height: 19px;" target=
+=3D"_blank"
+>  View online     </a>
+=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20
+        </td>
+      </tr>
+  </table>
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20
+      </td>
+  </tr>
+=20=20
+  <tr><td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px=
+; line-height:20px; text-decoration:none; color:#666666;" align=3D"left" va=
+lign=3D"top">
+
+To ensure that you are able to receive our emails, please add "<span style=
+=3D"text-decoration:none;color:#666666;">@e.paypal.com</span>" to your safe=
+ senders list. For more information, please <a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/IL2VFN=
+/DD/h" style=3D"text-decoration:underline; color:#666666;" target=3D"_blank"
+>click here</a>.
+
+
+
+
+
+
+
+  </td></tr>
+=20=20
+=20=20
+   <tr><td height=3D"20"><img  src=3D"https://image.paypal-communication.co=
+m/paypal_apac/template_globaldesign2014/img_spacer.gif" width=3D"1" height=
+=3D"20"  alt=3D"" style=3D"display:block; border:none; outline:none; text-d=
+ecoration:none;"/>
+  </td></tr>
+=20=20=20=20
+=20=20
+  <tr>
+=20=20
+    <td align=3D"left" valign=3D"top">    <table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+  <tr>
+    <td align=3D"left" valign=3D"top" class=3D"nomob" width=3D"700" height=
+=3D"9" style=3D"font-size:0px; line-height:0px;" ><img src=3D"https://image=
+.paypal-communication.com/paypal_apac/template_globaldesign2014/img_border_=
+t.jpg" width=3D"700" height=3D"9" alt=3D"" style=3D"display:block; border:n=
+one; outline:none; text-decoration:none;"/></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+      <tr>
+        <td width=3D"1" align=3D"left" valign=3D"middle" bgcolor=3D"#e3e3e3=
+" class=3D"nomob"><img  src=3D"https://image.paypal-communication.com/paypa=
+l_apac/2014_Q1/template_global_template_wireframe_0114/img_spacer.gif" widt=
+h=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none; outline=
+:none; text-decoration:none;"/></td>
+        <td align=3D"left" valign=3D"top" bgcolor=3D"#ffffff" class=3D"nobg=
+">
+        <!-- mob border-->
+        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+          <tr>
+            <td class=3D"whiteMod" style=3D"padding: 14px 0px;">
+            <!-- ALL CONTENT/MODULES SHOULD COME BELOW THIS SECTION -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+             <!-- header -->
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" class=3D"table">
+  <tr>
+=20=20
+            <td class=3D"nomob" width=3D"25"><img  src=3D"https://image.pay=
+pal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif"=
+ width=3D"25" height=3D"1"  alt=3D"" style=3D"display:block; border:none; o=
+utline:none; text-decoration:none;"/>
+                                </td>
+    <td style=3D"padding: 0px 0px;" class=3D"padding20px">
+    <!-- Logo -->
+=20=20=20=20
+=20=20=20=20
+
+=20=20=20=20
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td align=3D"left" valign=3D"top" >
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                          <a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/5IUNIR=
+/DD/h" style=3D"font-family:  Helvetica, Arial, sans-serif; font-size: 20px=
+; color: #009cde; text-decoration: none; line-height: 20px; font-weight: bo=
+ld; background:url(https://image.paypal-communication.com/paypal_apac/commo=
+n/paypal_logo2014_bigger2.jpg); background-repeat:no-repeat; background-siz=
+e:119px 31px;" class=3D"logoresize" target=3D"_blank"
+><img  class=3D"nomob" src=3D"https://image.paypal-communication.com/paypal=
+_apac/common/pp_h_rgb_2014.gif" width=3D"140" height=3D"34" alt=3D"PayPal" =
+style=3D"display:block; border:none; outline:none; text-decoration:none;"/>=
+</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                          </td>
+                        </tr>
+                      </table>
+    <!-- End Logo -->
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><img  src=3D"https://image.paypal-communication.com/paypal_apac/tem=
+plate_globaldesign2014/img_spacer.gif" width=3D"1" height=3D"30"  alt=3D"" =
+style=3D"display:block; border:none; outline:none; text-decoration:none;"/>=
+</td>
+  </tr>
+=20=20
+   <tr>
+    <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:30px; =
+line-height:42px; text-decoration:none; color:#009CDE;" align=3D"left" vali=
+gn=3D"top">We=E2=80=99re making changes to our legal agreements </td>
+  </tr>
+=20=20
+   <tr>
+    <td><img  src=3D"https://image.paypal-communication.com/paypal_apac/tem=
+plate_globaldesign2014/img_spacer.gif" width=3D"1" height=3D"30"  alt=3D"" =
+style=3D"display:block; border:none; outline:none; text-decoration:none;"/>=
+</td>
+  </tr>
+=20=20
+  <tr>
+    <td>
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20
+
+=20=20=20=20
+=20=20=20=20
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top">Dear  Peter Yeo,</td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top"><img style=3D"display:block;" src=3D"https://image.paypal-communic=
+ation.com/paypal_apac/template_globaldesign2014/img_spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"18" /></td>
+</tr>
+<tr>
+<td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; line=
+-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top">From time to time we amend our legal agreements to reflect changes=
+ in our products and services.=20
+<br>
+<br>
+
+Next month we=E2=80=99ll be making some changes that we want to bring to yo=
+ur attention.=20
+
+          </td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top">&nbsp;</td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top">
+=20=20
+=20=20=20=20=20=20=20
+=20=20
+=20=20
+  <table  border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" >
+<tr>
+<td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; line=
+-height:20px; text-decoration:none; color:#666666;" align=3D"center" valign=
+=3D"top" width=3D"20" >&bull;</td>
+<td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; line=
+-height:20px; text-decoration:none; color:#666666;">We=E2=80=99re introduci=
+ng a new tier of lower pricing for sellers with a monthly sales volume betw=
+een $2,500 and $5,000. The rate for this tier will be 2.2% + fixed fee.</td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"center"valig=
+n=3D"top">&bull;</td>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;">For sellers with a mo=
+nthly sales volume of less than $2,500, the standard rate will be changed t=
+o 2.6% + fixed fee. We=E2=80=99ve also changed the standard rate for all ot=
+her types of commercial transactions.  </td>
+</tr>
+
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"center"valig=
+n=3D"top">&bull;</td>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;">For sellers using Web=
+site Payments Pro and whose monthly sales volume is over $150,000, we have =
+amended the rate for cross-border transactions to 2.5% + fixed fee.</td>
+</tr>
+
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"center"valig=
+n=3D"top">&bull;</td>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;">We=E2=80=99ve clarifi=
+ed when our Seller Protection Policy does not apply. </td>
+</tr>
+
+
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"center"valig=
+n=3D"top">&bull;</td>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;">We=E2=80=99ve made so=
+me changes to our Privacy Policy.</td>
+</tr>
+
+</table>
+
+
+
+
+</td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top"><img style=3D"display:block;" src=3D"https://image.paypal-communic=
+ation.com/paypal_apac/template_globaldesign2014/img_spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"18" /></td>
+</tr>
+<tr>
+  <td style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; li=
+ne-height:20px; text-decoration:none; color:#666666;" align=3D"left" valign=
+=3D"top">The changes will automatically<strong> take effect on 12 February =
+2015 </strong>and we have updated the Combined Financial Services Guide and=
+ Product Disclosure Statement, the User Agreement and the Privacy Policy. <=
+br>
+<br>
+
+=20=20
+=20=20
+  For more detail on these changes, and how they may impact you, please see=
+ our <a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/Q0X50M=
+/DD/h" style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; l=
+ine-height:20px; text-decoration:none; color:#009CDE;" target=3D"_blank"
+><strong>Policy Updates page</strong></a> or visit <strong>paypal.com.au</s=
+trong>, click <strong>Legal </strong>at the bottom of the page and then <st=
+rong>Policy Updates</strong>.
+=20=20
+<br>
+<br>
+=20
+
+As always, if you need help or have any questions, please visit our  <a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/9SH1S1=
+/DD/h" style=3D"font-family:Helvetica, Arial, sans-serif; font-size:13px; l=
+ine-height:20px; text-decoration:none; color:#009CDE;" target=3D"_blank"
+><strong>Help Centre</strong></a> or go to <strong>paypal.com.au</strong> a=
+nd click <strong>Contact</strong>. </td>
+</tr>
+<tr>
+  <td height=3D"18" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"https://image.paypal-communication.com/paypal_apac/template_glo=
+baldesign2014/img_spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1=
+8" /></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+  </tr>
+</table>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+    <!-- TITLE --><!-- END TITLE -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+    <!-- Subline copy --></td>
+=20=20=20=20
+              <td class=3D"nomob" width=3D"25"><img  src=3D"https://image.p=
+aypal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gi=
+f" width=3D"25" height=3D"1"  alt=3D"" style=3D"display:block; border:none;=
+ outline:none; text-decoration:none;"/>
+                                </td>
+  </tr>
+
+            </table>
+            <!-- end header-->=20=20=20=20=20=20=20=20
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+
+</td>
+          </tr>
+        </table>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <!-- end mob border --></td>
+        <td width=3D"1" align=3D"left" valign=3D"middle" bgcolor=3D"#e3e3e3=
+" class=3D"nomob"><img  src=3D"https://image.paypal-communication.com/paypa=
+l_apac/2014_Q1/template_global_template_wireframe_0114/img_spacer.gif" widt=
+h=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none; outline=
+:none; text-decoration:none;"/></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" class=3D"nomob" width=3D"700" height=
+=3D"9" style=3D"font-size:0px; line-height:0px;" ><img src=3D"https://image=
+.paypal-communication.com/paypal_apac/template_globaldesign2014/img_border_=
+b.jpg" width=3D"700" height=3D"9" alt=3D"" style=3D"display:block; border:n=
+one; outline:none; text-decoration:none;"/></td>
+  </tr>
+
+</table>
+
+ <!-- footer buttons -->
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" class=3D"table" >
+  <tr>
+    <td align=3D"left" valign=3D"top">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+">
+=20=20=20=20=20
+      <tr>
+        <td style=3D"padding:0px 0px; font-family: Helvetica, Arial, sans-s=
+erif;  -webkit-font-smoothing: antialiased; font-size:11px; color:#666666; =
+text-align:left;"  ><table width=3D"100%" border=3D"0" align=3D"left" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr>
+            <td align=3D"center" valign=3D"top"><table width=3D"100%" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+              <tr>
+                <td style=3D"padding: 0px 20px;" valign=3D"top" class=3D"no=
+padding">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  <table width=3D"100%" border=3D"0" align=3D"left" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"table">
+                    <tr>
+                      <td align=3D"center" valign=3D"top">
+                        <table align=3D"left" width=3D"100%" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0"  class=3D"table"> <!-- change class:"tab=
+le200" for other local lang -->
+                          <tr>
+                            <td align=3D"left" class=3D"ultility_nav_paddin=
+g" style=3D"padding:18px 0px 18px 0px; font-family: Helvetica, Arial,  verd=
+ana, sans-serif;  -webkit-font-smoothing: antialiased; font-size:13px; line=
+-height:16px; color:#666; font-weight:bold;"><a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/5IUNI3=
+/DD/h" style=3D"text-decoration:none; color:#666666;" class=3D"utility_nav"=
+ target=3D"_blank"
+>Forgot Password</a><img class=3D"utility_nav_spacer" src=3D"https://image.=
+paypal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.g=
+if" height=3D"16" width=3D"15" border=3D"0" style=3D"display:inline;" /><a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/W7QY7E=
+/DD/h" style=3D"text-decoration:none; color:#666666;" class=3D"utility_nav"=
+ target=3D"_blank"
+>Contact Us</a><img class=3D"utility_nav_spacer" src=3D"https://image.paypa=
+l-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif" h=
+eight=3D"16" width=3D"15" border=3D"0" style=3D"display:inline;" /><a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/2KNJKN=
+/DD/h" style=3D"text-decoration:none; color:#666666;" class=3D"utility_nav"=
+ target=3D"_blank"
+>Privacy</a></td>
+                            </tr>
+                          </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        </td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  </td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td style=3D"padding:0px 0px; font-family: Helvetica, Arial, sans-s=
+erif;  -webkit-font-smoothing: antialiased; font-size:11px; color:#666666; =
+text-align:left;"  ><table cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+          <tr>
+            <td align=3D"left" valign=3D"top"  height=3D"" bgcolor=3D"#d9d9=
+d9" style=3D"font-size:0px; line-height:0px;"><img  src=3D"https://image.pa=
+ypal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif=
+" width=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none; o=
+utline:none; text-decoration:none;"/></td>
+            </tr>
+          <tr>
+            <td align=3D"left" valign=3D"top" height=3D"1"  bgcolor=3D"#fff=
+fff"  style=3D"font-size:0px; line-height:0px;"><img  src=3D"https://image.=
+paypal-communication.com/paypal_apac/template_globaldesign2014/img_spacer.g=
+if" width=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; border:none;=
+ outline:none; text-decoration:none;"/></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td style=3D"padding:0px 0px; font-family: Helvetica, Arial, sans-s=
+erif;  -webkit-font-smoothing: antialiased; font-size:11px; color:#666666; =
+text-align:left;"  ><img style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"18" /></td>
+      </tr>
+      <tr>
+        <td style=3D"padding:0px 0px; font-family: Helvetica, Arial, sans-s=
+erif;  -webkit-font-smoothing: antialiased; font-size:11px; color:#666666; =
+text-align:left;"  ><table  width=3D"100%" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" align=3D"center" class=3D"table">
+                          <!-- change class:"table200" for other local lang=
+ -->
+                          <tr>
+                            <td align=3D"left" class=3D"ultility_phish_foot=
+er"  style=3D"padding:0px 20px 20px 20px; font-family: Helvetica, Arial,  v=
+erdana, sans-serif;  -webkit-font-smoothing: antialiased; font-size:11px; l=
+ine-height:16px; color:#666666;"><strong>How do I know this is not a fake e=
+mail?</strong><br /><br />
+
+Remember, fake or 'phishing' emails tend to have generic greetings such as =
+"Dear PayPal member". Emails from PayPal will always address you by your fi=
+rst and last name.  If unsure, forward the suspicious email to <a
+ href=3D"mailto:phishing@paypal.com.au" style=3D"font-family:Helvetica,Aria=
+l,sans-serif;color:#009cde;font-size:11px;text-decoration:none;font-weight:=
+bold" target=3D"_blank"
+>phishing@paypal.com.au</a> and we'll let you know if it's really coming fr=
+om us or not. <br /><br />
+<a
+ href=3D"https://email-edg.paypal.com/r/FDYBUX9/IYFB1D/29D1EB/PRIF2P/Z4JQ4R=
+/DD/h" style=3D"font-family: Helvetica, Arial, sans-serif; color: #009cde; =
+font-size:11px; text-decoration:none" target=3D"_blank"
+><strong>Find out more about fake and phishing emails </strong></a>
+</td>
+                          </tr>
+                        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           <table cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=20=20=20=20=20=20=20=20=20
+=20=20=20
+   <tr>
+    <td align=3D"left" valign=3D"top"  height=3D"1" bgcolor=3D"#d9d9d9"  st=
+yle=3D"mso-line-height-rule:exactly; line-height:0px" ><img  src=3D"https:/=
+/image.paypal-communication.com/paypal_apac/template_globaldesign2014/img_s=
+pacer.gif" width=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; borde=
+r:none; outline:none; text-decoration:none;"/></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" height=3D"1"  bgcolor=3D"#ffffff"  st=
+yle=3D"mso-line-height-rule:exactly; line-height:0px"  ><img  src=3D"https:=
+//image.paypal-communication.com/paypal_apac/template_globaldesign2014/img_=
+spacer.gif" width=3D"1" height=3D"1"  alt=3D"" style=3D"display:block; bord=
+er:none; outline:none; text-decoration:none;"/></td>
+  </tr>
+  </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        </td>
+      </tr>
+      <tr>
+        <td style=3D"padding:0px 0px; font-family: Helvetica, Arial, sans-s=
+erif;  -webkit-font-smoothing: antialiased; font-size:11px; color:#666666; =
+text-align:left;"  >
+=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%">
+<tr>
+<td  height=3D"10" ><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_apac/template_globaldesign2014/img_spacer.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"10" /></td>
+
+</tr>
+</table>
+=20=20=20=20=20=20=20=20
+=20
+
+=20=20
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"=
+100%">
+<tr>
+<td align=3D"left" valign=3D"top"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">
+
+<tr>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"20" height=3D"1" /=
+></td>
+<td style=3D"font-family:Helvetica, Arial,  sans-serif; color:#666666; font=
+-size:11px; text-decoration:none; line-height:14px; font-weight:normal;">
+
+
+This email was sent to finance@worldfinancesearchengines.com because you ar=
+e a PayPal user. <br>
+<br>
+ The PayPal service is provided by PayPal Australia Pty Limited (ABN 93 111=
+ 195 389) which holds Australian Financial Services Licence number 304962.
+</td>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"20" height=3D"1" /=
+></td>
+</tr>
+<tr>
+<td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.paypal=
+-communication.com/paypal/spacer50.gif" border=3D"0" alt=3D"" width=3D"1" h=
+eight=3D"10" /></td>
+</tr>
+</table>
+
+        </td>
+      </tr>
+      </table></td>
+  </tr>
+</table>
+ <!--end footer buttons -->=20=20=20=20=20
+
+      </td>
+  </tr>
+
+</table>=20
+=20=20=20=20=20=20
+
+=20=20=20=20=20=20
+    </td>
+  </tr>
+=20=20
+</table>
+<!-- End Master template  -->
+
+</body>
+</html>
+<img height=3D"1" width=3D"1" src=3D"https://email-edg.paypal.com/o/FDYBUX9=
+/IYFB1D/29D1EB/PRIF2P/4V88/MS"><img height=3D"1" width=3D"1" src=3D"https:/=
+/email-edg.paypal.com/o/FDYBUX9/IYFB1D/29D1EB/PRIF2P/4V88/52"><!-- [[FDYBUX=
+9-Z4IVQA-IYFB1D-29D1EB-PRIF2P-M-M2-20150107-007f4721ecff3b]] -->
+
+---_-_-_-_-_1234567890--
+

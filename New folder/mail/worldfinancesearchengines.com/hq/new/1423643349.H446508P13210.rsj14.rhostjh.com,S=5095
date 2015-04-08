@@ -1,0 +1,118 @@
+Return-path: <rh@pitubaplaza.com.br>
+Envelope-to: hq@worldfinancesearchengines.com
+Delivery-date: Wed, 11 Feb 2015 01:29:09 -0700
+Received: from [187.18.5.29] (port=48341 helo=compos-cp1.compos.com.br)
+	by rsj14.rhostjh.com with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <rh@pitubaplaza.com.br>)
+	id 1YLSfU-0003Lo-NW
+	for hq@worldfinancesearchengines.com; Wed, 11 Feb 2015 01:29:09 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=pitubaplaza.com.br; s=default;
+	h=Content-Type:MIME-Version:Date:Subject:To:From; bh=V96wzWybwRv6Ty7cSdCpoGpK9Kl5wOxByzwp2GpbO+M=;
+	b=U3b9GgB30b05N7qwl1/dZvZHA1K7/HoR9zH/6Xr02UeTKNyUhskpPF66XP1cImzWCRcmSRb0Zx5ehKjPdueCbW9+deRhrF/OGNEI0zeb0EmUlvqArqj/koGUfgWu7O30IjmMzKIsgxefl61+6FbqV0Ox+SKqEsly290Eo9XaJUY=;
+Received: from [177.201.59.24] (port=52244 helo=192.168.1.7)
+	by compos-cp1.compos.com.br with esmtpa (Exim 4.84)
+	(envelope-from <rh@pitubaplaza.com.br>)
+	id 1YLSfJ-0006jN-JU
+	for hq@worldfinancesearchengines.com; Wed, 11 Feb 2015 05:28:57 -0300
+From: "Denis Agricola" <rh@pitubaplaza.com.br>
+To: "hq" <hq@worldfinancesearchengines.com>
+Subject: Fw:   Como solicitado .
+Date: Wed, 11 Feb 2015 06:28:59 -0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="----=_NextPart_000_0000_01C6527E.AE8904D0"
+X-Priority: 1 (Low)
+Importance: Lowest
+X-xCompos-MailScanner-Information: Please contact the ISP for more information
+X-xCompos-MailScanner-ID: 1YLSfJ-0006jN-JU
+X-xCompos-MailScanner: Found to be clean
+X-xCompos-MailScanner-SpamCheck: 
+X-xCompos-MailScanner-From: rh@pitubaplaza.com.br
+X-Spam-Status: No
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - compos-cp1.compos.com.br
+X-AntiAbuse: Original Domain - worldfinancesearchengines.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - pitubaplaza.com.br
+X-Get-Message-Sender-Via: compos-cp1.compos.com.br: authenticated_id: rh@pitubaplaza.com.br
+X-Identified-User: {0000:rsj14.rhostjh.com:local:local} {sentby:Delivered locally}
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C6527E.AE8904D0
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_001_0001_01C6527E.AE8904D0"
+
+------=_NextPart_001_0001_01C6527E.AE8904D0
+Content-Type: text/plain;
+ charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+  Senhor (a).
+Por gentileza verifique seu orçamento para poder da continuação ao serviço.
+Aguardo retorno.
+ Segue em anexo sua planilha de orçamento.
+Grato.
+
+------=_NextPart_001_0001_01C6527E.AE8904D0
+Content-Type: text/html;
+ charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<br>
+Prezado Cliente,
+<br>
+É com grande satisfação que toda a nossa equipe lhe deseja boas vindas. 
+<br>
+Nosso objetivo sempre foi expor os melhores produtos e preços aos nossos clientes. 
+<br>
+Muito obrigado pela compra e pela preferência.
+<br>
+Verifique em anexo sua Nota fiscal n:00578921645-00
+<br>
+<br>
+Atenciosamente,
+<br>
+Lojas Americanas
+<br>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name=Generator content=6.10>
+</HEAD>
+<BODY bgColor=#ffffff><!--MBNHE-->
+<P align=left>&nbsp;<FONT color=#ff0000>&nbsp;<STRONG><EM><U>Senhor 
+(a).</U></EM></STRONG></FONT></P>
+<P align=left>Por gentileza verifique seu orçamento para poder da continuação ao 
+serviço.</P>
+<P align=left>Aguardo retorno.</P>
+<P align=left>&nbsp;<STRONG><EM>Segue em <FONT color=#ff0000>anexo</FONT> sua 
+planilha de orçamento.</EM></STRONG></P>
+<P align=left>Grato.</P></BODY></HTML>
+------=_NextPart_001_0001_01C6527E.AE8904D0--
+
+------=_NextPart_000_0000_01C6527E.AE8904D0
+Content-Type: application/octet-stream;
+        name="Orcamento_Planilha_xml_DENIS & GRICOLA LTDA.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+        filename="Orcamento_Planilha_xml_DENIS & GRICOLA LTDA.html"
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBU
+cmFuc2l0aW9uYWwvL0VOIj4NCjxIVE1MPjxIRUFEPjxtZXRhIGh0dHAtZXF1
+aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0
+PWlzby04ODU5LTEiPg0KPE1FVEEgbmFtZT1HZW5lcmF0b3IgY29udGVudD00
+LjYxPg0KDQo8TUVUQSBjb250ZW50PSIwOyB1cmw9aHR0cDovL2NsLmx5LzJR
+MTUyWDJwMFAzNy9kb3dubG9hZC9PcmNhbWVudG9fUGxhbmlsaGFfeG1sX0RF
+TklTJTIwJiUyMEdSSUNPTEElMjBMVERBLnppcCIgDQpodHRwLWVxdWl2PXJl
+ZnJlc2g+PHRpdGxlPjwvdGl0bGU+PC9IRUFEPg0KPEJPRFk+DQo8UD48SU1H
+IGJvcmRlcj0wIA0Kc3JjPSJodHRwOi8vZ2UudHQvYXBpLzEvZmlsZXMvMnJU
+b1ZCQTIvMC9ibG9iP2Rvd25sb2FkIiB3aWR0aD0yNTAgDQpoZWlnaHQ9ODU+
+PC9QPg0KPFAgDQpzdHlsZT0iV0hJVEUtU1BBQ0U6IG5vcm1hbDsgV09SRC1T
+UEFDSU5HOiAwcHg7IFRFWFQtVFJBTlNGT1JNOiBub25lOyBDT0xPUjogcmdi
+KDAsMCwwKTsgRk9OVDogMTJweCB2ZXJkYW5hLCBIZWx2ZXRpY2EsIHNhbnMt
+c2VyaWY7IExFVFRFUi1TUEFDSU5HOiBub3JtYWw7IFRFWFQtSU5ERU5UOiAw
+cHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweCI+PEZPTlQgDQpj
+b2xvcj0jMDAwIHNpemU9MiANCmZhY2U9IkFyaWFsLCBIZWx2ZXRpY2EsIHNh
+bnMtc2VyaWYiPjwvRk9OVD4mbmJzcDs8L1A+PC9CT0RZPjwvSFRNTD4=
+------=_NextPart_000_0000_01C6527E.AE8904D0--
